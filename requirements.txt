@@ -1,0 +1,4 @@
+wikipedia
+pandas
+requests
+bs4
