@@ -1,15 +1,12 @@
 County,State,Wikipedia_URL
 Autauga County,Alabama,http://www.autaugaco.org
 Baldwin County,Alabama,https://baldwincountyal.gov/
-Daphne-Fairhope-Foley,AL Metropolitan Statistical Area,https://baldwincountyal.gov/
 Eufaula,Alabama,http://www.eufaulaalabama.com/
 Bibb County,Alabama,http://www.bibbal.com
-Birmingham-Hoover,AL Metropolitan Statistical Area,https://www.birminghamal.org/
 Blount County,Alabama,http://www.blountcountyal.gov
 Bullock County,Alabama,http://bullockcountyalrev.com/
 Butler County,Alabama,http://butlercountyal.com/
 Calhoun County,Alabama,http://www.calhouncounty.org
-Anniston-Oxford-Jacksonville,AL Metropolitan Statistical Area,http://www.calhouncounty.org
 Chambers County,Alabama,http://www.chamberscountyal.gov
 Cherokee County,Alabama,http://www.cherokeecounty-al.gov
 Chilton County,Alabama,http://chiltoncounty.org
@@ -17,43 +14,34 @@ Clarke County,Alabama,http://www.clarkecountyal.com
 Clay County,Alabama,https://alabamaclaycounty.com/
 Cleburne County,Alabama,http://www.cleburnecounty.us
 Coffee County,Alabama,http://www.coffeecounty.us
-Enterprise,AL Micropolitan Statistical Area,http://www.coffeecounty.us
 Colbert County,Alabama,http://www.colbertcounty.org/
 Coosa County,Alabama,http://www.coosacountyal.com/
 Covington County,Alabama,http://www.covcounty.com
 Crenshaw County,Alabama,http://www.crenshawcountyalonline.com
 Cullman County,Alabama,http://www.co.cullman.al.us
-Cullman,AL Micropolitan Statistical Area,http://www.co.cullman.al.us
 Dale County,Alabama,http://www.dalecountyal.org
-Ozark,AL Micropolitan Statistical Area,http://www.dalecountyal.org
 Dallas County,Alabama,http://www.dallascounty-al.org/
-Selma,AL Micropolitan Statistical Area,http://www.dallascounty-al.org/
 DeKalb County,Alabama,http://www.dekalbcountyal.us
 Elmore County,Alabama,http://www.elmoreco.org
 Escambia County,Alabama,http://www.co.escambia.al.us
 Etowah County,Alabama,http://www.etowahcounty.org
-Gadsden,AL Metropolitan Statistical Area,http://www.etowahcounty.org
 Franklin County,Alabama,http://www.franklincountyal.org
 Geneva County,Alabama,http://www.genevacounty.us/
 Hale County,Alabama,http://www.halecountyal.com
 Henry County,Alabama,http://www.henrycountyal.com/
 Houston County,Alabama,https://houstoncountyal.gov/
 Jackson County,Alabama,http://www.jacksoncountyal.gov/
-Scottsboro,AL Micropolitan Statistical Area,http://www.jacksoncountyal.gov/
 Jefferson County,Alabama,http://jeffconline.jccal.org/
 Lamar County,Alabama,http://www.lamarcounty.us/
 Lauderdale County,Alabama,https://lauderdalecountyal.gov/
 Lawrence County,Alabama,http://www.lawrencealabama.com
-Decatur,AL Metropolitan Statistical Area,http://www.decaturalabamausa.com
 Lee County,Alabama,http://www.leeco.us
 Limestone County,Alabama,http://limestonecounty-al.gov/
-Huntsville,AL Metropolitan Statistical Area,https://www.huntsvilleal.gov/
 Macon County,Alabama,https://www.maconalabama.com/
 Madison County,Alabama,https://www.madisoncountyal.gov
 Marengo County,Alabama,http://marengocountyal.com/
 Marion County,Alabama,http://marioncountyalabama.org/
 Marshall County,Alabama,http://www.marshallco.org
-Albertville,AL Micropolitan Statistical Area,http://www.marshallco.org
 Mobile County,Alabama,http://MobileCountyAL.gov
 Monroe County,Alabama,http://www.monroecountyal.com
 Montgomery County,Alabama,http://www.mc-ala.org
@@ -61,7 +49,6 @@ Morgan County,Alabama,http://www.co.morgan.al.us
 Perry County,Alabama,http://www.perrysheriff.com
 Pickens County,Alabama,http://www.pickenscountyal.com/
 Pike County,Alabama,http://www.alabamagis.com/Pike/
-Troy,AL Micropolitan Statistical Area,http://www.alabamagis.com/Pike/
 Randolph County,Alabama,http://randolphcountyalabama.gov/
 Russell County,Alabama,http://www.rcala.com
 St. Clair County,Alabama,http://www.stclairco.com
@@ -78,13 +65,10 @@ Anchorage,Alaska,https://www.muni.org/
 Bristol Bay Borough,Alaska,http://www.bristolbayboroughak.us/
 Denali Borough,Alaska,http://www.denaliborough.com
 Fairbanks North Star Borough,Alaska,http://www.co.fairbanks.ak.us
-Fairbanks,AK Metropolitan Statistical Area,http://www.co.fairbanks.ak.us
 Haines Borough,Alaska,http://www.hainesborough.us
 Juneau,Alaska,https://juneau.org/
-Juneau,AK Micropolitan Statistical Area,https://juneau.org/
 Kenai Peninsula Borough,Alaska,http://www.borough.kenai.ak.us
 Ketchikan Gateway Borough,Alaska,http://www.kgbak.us
-Ketchikan,AK Micropolitan Statistical Area,http://www.kgbak.us
 Kodiak Island Borough,Alaska,http://www.kodiakak.us
 Lake and Peninsula Borough,Alaska,http://www.lakeandpen.com
 Matanuska-Susitna Borough,Alaska,http://www.matsugov.us
@@ -97,49 +81,34 @@ Wrangell,Alaska,http://www.wrangell.com
 Yakutat,Alaska,http://yakutatak.govoffice2.com
 Apache County,Arizona,https://www.apachecountyaz.gov
 Cochise County,Arizona,https://www.cochise.az.gov
-Sierra Vista-Douglas,AZ Metropolitan Statistical Area,https://www.cochise.az.gov
 Coconino County,Arizona,http://coconino.az.gov
-Flagstaff,AZ Metropolitan Statistical Area,http://coconino.az.gov
 Gila County,Arizona,http://www.gilacountyaz.gov/
-Payson,AZ Micropolitan Statistical Area,http://www.gilacountyaz.gov/
 Graham County,Arizona,http://www.graham.az.gov
 Greenlee County,Arizona,http://www.co.greenlee.az.us
 La Paz County,Arizona,http://www.co.la-paz.az.us
 Maricopa County,Arizona,http://www.maricopa.gov
 Mohave County,Arizona,https://www.mohave.gov
-Lake Havasu City-Kingman,AZ Metropolitan Statistical Area,https://www.mohave.gov
 Navajo County,Arizona,https://www.navajocountyaz.gov/
-Show Low,AZ Micropolitan Statistical Area,https://www.navajocountyaz.gov/
 Pima County,Arizona,http://www.pima.gov
-Tucson,AZ Metropolitan Statistical Area,http://www.pima.gov
 Pinal County,Arizona,http://www.pinalcountyaz.gov
 Santa Cruz County,Arizona,http://www.co.santa-cruz.az.us
-Nogales,AZ Micropolitan Statistical Area,http://www.co.santa-cruz.az.us
 Yavapai County,Arizona,https://yavapaiaz.gov/
-Prescott,AZ Metropolitan Statistical Area,https://yavapaiaz.gov/
 Yuma County,Arizona,http://www.yumacountyaz.gov
-Yuma,AZ Metropolitan Statistical Area,http://www.yumacountyaz.gov
 Ashley County,Arkansas,https://www.ashleycountyar.com
 Baxter County,Arkansas,http://www.baxtercounty.org/
-Mountain Home,AR Micropolitan Statistical Area,http://www.baxtercounty.org/
 Benton County,Arkansas,http://www.bentoncountyar.gov
-Fayetteville-Springdale-Rogers,AR-MO Metropolitan Statistical Area,https://www.fayetteville-ar.gov/
 Boone County,Arkansas,http://www.boonecountyar.com/
 Bradley County,Arkansas,http://www.bradleycountyarkansas.com
 Calhoun County,Arkansas,https://calhouncounty.arkansas.gov/
 Carroll County,Arkansas,http://carrollcounty.us/
 Chicot County,Arkansas,http://chicotcounty.arkansas.gov/index
 Clark County,Arkansas,https://clarkcountyar.gov/
-Arkadelphia,AR Micropolitan Statistical Area,https://clarkcountyar.gov/
 Clay County,Arkansas,http://claycounty.arkansas.gov
 Cleburne County,Arkansas,http://www.cleburnecountyar.com/
 Cleveland County,Arkansas,http://clevelandcounty.arkansas.gov/
-Pine Bluff,AR Metropolitan Statistical Area,http://www.cityofpinebluff.com/
 Columbia County,Arkansas,http://www.countyofcolumbia.org/
-Magnolia,AR Micropolitan Statistical Area,http://www.countyofcolumbia.org/
 Conway County,Arkansas,https://conwaycountyar.com/
 Craighead County,Arkansas,http://www.craigheadcounty.org/
-Jonesboro,AR Metropolitan Statistical Area,http://jonesboro.org
 Crawford County,Arkansas,http://www.crawford-county.org/
 Crittenden County,Arkansas,http://crittenden.ark.org/
 Cross County,Arkansas,http://crosscountyar.org/
@@ -149,12 +118,9 @@ Faulkner County,Arkansas,http://www.faulknercounty.org
 Fulton County,Arkansas,http://fulton.ark.org/
 Grant County,Arkansas,http://www.grantcountyar.com
 Greene County,Arkansas,http://county.arkansas.gov/greene/
-Paragould,AR Micropolitan Statistical Area,http://county.arkansas.gov/greene/
 Hempstead County,Arkansas,https://hempsteadcountyar.com/
 Hot Spring County,Arkansas,http://www.hotspringcounty.org
-Malvern,AR Micropolitan Statistical Area,http://www.hotspringcounty.org
 Independence County,Arkansas,http://www.independencecounty.com/
-Batesville,AR Micropolitan Statistical Area,http://www.independencecounty.com/
 Izard County,Arkansas,http://www.izardcountyar.org/
 Jackson County,Arkansas,http://www.jacksoncountyar.org/
 Jefferson County,Arkansas,http://jeffersoncounty.arkansas.gov
@@ -163,116 +129,80 @@ Lafayette County,Arkansas,http://www.lafayettecounty.arkansas.gov
 Lawrence County,Arkansas,http://www.lawrencecountyarkansas.com/
 Lee County,Arkansas,http://leecounty.arkansas.gov
 Lincoln County,Arkansas,http://lincolncounty.arkansas.gov/
-Texarkana,TX-AR Metropolitan Statistical Area,http://www.texarkanamsa.org/index.html
 Madison County,Arkansas,http://madisoncogov.com/
 Marion County,Arkansas,http://marioncounty.arkansas.gov/
 Miller County,Arkansas,http://www.millercountyar.com/
 Mississippi County,Arkansas,https://www.mississippicountyar.org
-Blytheville,AR Micropolitan Statistical Area,https://www.mississippicountyar.org
 Montgomery County,Arkansas,https://montgomerycounty.arkansas.gov/
 Nevada County,Arkansas,http://nevadacounty.arkansas.gov/
 Perry County,Arkansas,http://perrycoarkansas.org/
 Phillips County,Arkansas,http://phillipscounty.arkansas.gov/
-Helena-West Helena,AR Micropolitan Statistical Area,http://phillipscounty.arkansas.gov/
 Poinsett County,Arkansas,http://www.poinsettcounty.us
 Pope County,Arkansas,http://www.popecountyar.com
 Pulaski County,Arkansas,http://pulaskicounty.net/
 Sebastian County,Arkansas,http://www.sebastiancountyar.gov/
 Sharp County,Arkansas,http://sharpcounty.arkansas.gov/
 Union County,Arkansas,http://www.unioncountyar.com
-El Dorado,AR Micropolitan Statistical Area,http://www.unioncountyar.com
 Van Buren County,Arkansas,http://www.vanburencountyark.com/
 Washington County,Arkansas,http://www.co.washington.ar.us
 White County,Arkansas,http://www.whitecountyar.org/
-Searcy,AR Micropolitan Statistical Area,http://www.whitecountyar.org/
 Woodruff County,Arkansas,https://woodruffcounty.arkansas.gov/
 Yell County,Arkansas,http://yellcountyar.gov
 Alameda County,California,http://www.acgov.org
-San Francisco-Oakland-Hayward,CA Metropolitan Statistical Area,http://bayareametro.gov
 Alpine County,California,http://www.alpinecountyca.gov
 Amador County,California,http://www.co.amador.ca.us
 Butte County,California,http://www.buttecounty.net
-Chico,CA Metropolitan Statistical Area,http://www.buttecounty.net
 Calaveras County,California,http://calaverasgov.us
 Colusa County,California,http://www.countyofcolusa.org
 Contra Costa County,California,http://www.contracosta.ca.gov
 Del Norte County,California,http://www.co.del-norte.ca.us
-Crescent City,CA Micropolitan Statistical Area,http://www.co.del-norte.ca.us
 El Dorado County,California,http://www.edcgov.us
 Fresno County,California,http://www.co.fresno.ca.us
-Fresno,CA Metropolitan Statistical Area,http://www.co.fresno.ca.us
 Glenn County,California,http://www.countyofglenn.net/
 Humboldt County,California,http://humboldtgov.org
-Eureka-Arcata-Fortuna,CA Micropolitan Statistical Area,http://humboldtgov.org
 Imperial County,California,http://www.co.imperial.ca.us
-El Centro,CA Metropolitan Statistical Area,http://www.co.imperial.ca.us
 Inyo County,California,http://www.inyocounty.us
 Kern County,California,http://www.co.kern.ca.us
-Bakersfield,CA Metropolitan Statistical Area,http://www.co.kern.ca.us
 Kings County,California,http://countyofkings.com
-Hanford-Corcoran,CA Metropolitan Statistical Area,http://countyofkings.com
 Lake County,California,https://www.lakecountyca.gov/
-Clearlake,CA Micropolitan Statistical Area,https://www.lakecountyca.gov/
 Lassen County,California,http://www.co.lassen.ca.us
-Susanville,CA Micropolitan Statistical Area,http://www.co.lassen.ca.us
 Los Angeles County,California,https://lacounty.gov/
 Madera County,California,http://www.maderacounty.com
-Madera,CA Metropolitan Statistical Area,http://www.maderacounty.com
 Marin County,California,http://www.co.marin.ca.us
 Mariposa County,California,http://www.mariposacounty.org
 Mendocino County,California,https://www.mendocinocounty.org/
-Ukiah,CA Micropolitan Statistical Area,https://www.mendocinocounty.org/
 Merced County,California,http://www.co.merced.ca.us
-Merced,CA Metropolitan Statistical Area,http://www.co.merced.ca.us
 Modoc County,California,http://www.co.modoc.ca.us
 Mono County,California,http://www.monocounty.ca.gov
 Monterey County,California,http://www.co.monterey.ca.us/
-Salinas,CA Metropolitan Statistical Area,http://www.co.monterey.ca.us/
 Napa County,California,http://www.countyofnapa.org
-Napa,CA Metropolitan Statistical Area,http://www.countyofnapa.org
 Nevada County,California,http://www.mynevadacounty.com
-Truckee-Grass Valley,CA Micropolitan Statistical Area,http://www.mynevadacounty.com
 Orange County,California,http://OCGov.com
 Placer County,California,http://www.Placer.CA.gov
 Plumas County,California,http://www.countyofplumas.com
 Riverside County,California,http://www.countyofriverside.us/
 Sacramento County,California,http://www.saccounty.net
 San Benito County,California,http://www.cosb.us
-San Jose-Sunnyvale-Santa Clara,CA Metropolitan Statistical Area,http://bayareametro.gov
 San Bernardino County,California,http://www.SBCounty.gov
 San Diego County,California,http://www.sandiegocounty.gov
-San Diego-Carlsbad,CA Metropolitan Statistical Area,http://www.sandiegocounty.gov
 San Joaquin County,California,http://www.sjgov.org
-Stockton-Lodi,CA Metropolitan Statistical Area,http://www.sjgov.org
 San Luis Obispo County,California,http://www.co.slo.ca.us
-San Luis Obispo-Paso Robles-Arroyo Grande,CA Metropolitan Statistical Area,http://www.co.slo.ca.us
 San Mateo County,California,http://www.smcgov.org
 Santa Barbara County,California,https://www.countyofsb.org
-Santa Maria-Santa Barbara,CA Metropolitan Statistical Area,https://www.countyofsb.org
 Santa Clara County,California,http://www.sccgov.org
 Santa Cruz County,California,http://www.co.santa-cruz.ca.us
-Santa Cruz-Watsonville,CA Metropolitan Statistical Area,http://www.co.santa-cruz.ca.us
 Shasta County,California,https://www.shastacounty.gov
-Redding,CA Metropolitan Statistical Area,https://www.cityofredding.org
 Sierra County,California,http://www.sierracounty.ca.gov
 Siskiyou County,California,http://www.co.siskiyou.ca.us
 Solano County,California,http://www.solanocounty.com
-Vallejo-Fairfield,CA Metropolitan Statistical Area,http://www.solanocounty.com
 Sonoma County,California,https://sonomacounty.ca.gov
-Santa Rosa,CA Metropolitan Statistical Area,https://sonomacounty.ca.gov
 Stanislaus County,California,http://www.stancounty.com
-Modesto,CA Metropolitan Statistical Area,http://www.stancounty.com
 Sutter County,California,http://www.co.sutter.ca.us
-Yuba City,CA Metropolitan Statistical Area,http://www.yubacity.net
 Tehama County,California,http://www.co.tehama.ca.us
-Red Bluff,CA Micropolitan Statistical Area,http://www.co.tehama.ca.us
 Trinity County,California,http://www.trinitycounty.org
 Tulare County,California,http://tularecounty.ca.gov
-Visalia-Porterville,CA Metropolitan Statistical Area,http://tularecounty.ca.gov
 Tuolumne County,California,http://www.co.tuolumne.ca.us
-Sonora,CA Micropolitan Statistical Area,http://www.co.tuolumne.ca.us
 Ventura County,California,http://www.countyofventura.org
-Oxnard-Thousand Oaks-Ventura,CA Metropolitan Statistical Area,http://www.countyofventura.org
 Yolo County,California,http://www.yolocounty.org
 Yuba County,California,http://www.co.yuba.ca.us
 Adams County,Colorado,http://www.adcogov.org
@@ -282,7 +212,6 @@ Archuleta County,Colorado,http://www.archuletacounty.org
 Baca County,Colorado,http://bacacountyco.gov
 Bent County,Colorado,http://www.bentcounty.net
 Boulder County,Colorado,http://www.bouldercounty.org
-Boulder,CO Metropolitan Statistical Area,http://www.bouldercounty.org
 Broomfield,Colorado,http://www.broomfield.org
 Chaffee County,Colorado,http://www.chaffeecounty.org/
 Cheyenne County,Colorado,http://www.co.cheyenne.co.us
@@ -295,13 +224,10 @@ Delta County,Colorado,http://www.deltacounty.com
 Dolores County,Colorado,http://dolocnty.colorado.gov
 Douglas County,Colorado,http://www.douglas.co.us
 Eagle County,Colorado,http://www.eaglecounty.us
-Edwards,CO Micropolitan Statistical Area,http://www.eaglecounty.us
 Elbert County,Colorado,http://www.elbertcounty-co.gov
 El Paso County,Colorado,http://www.elpasoco.com
 Fremont County,Colorado,http://www.fremontco.com
-Cañon City,CO Micropolitan Statistical Area,http://www.fremontco.com
 Garfield County,Colorado,http://www.garfield-county.com
-Glenwood Springs,CO Micropolitan Statistical Area,http://www.garfield-county.com
 Gilpin County,Colorado,http://www.co.gilpin.co.us
 Grand County,Colorado,http://co.grand.co.us
 Gunnison County,Colorado,http://www.gunnisoncounty.org
@@ -313,23 +239,16 @@ Kiowa County,Colorado,http://www.kiowacounty-colorado.com
 Kit Carson County,Colorado,http://kitcarsoncounty.colorado.gov
 Lake County,Colorado,http://www.lakecountyco.com
 La Plata County,Colorado,http://co.laplata.co.us
-Durango,CO Micropolitan Statistical Area,http://co.laplata.co.us
 Larimer County,Colorado,http://www.larimer.org/
-Fort Collins,CO Metropolitan Statistical Area,http://www.larimer.org/
 Las Animas County,Colorado,https://lasanimascounty.colorado.gov/
 Lincoln County,Colorado,http://lincolncounty.colorado.gov/
 Logan County,Colorado,http://logancounty.colorado.gov/
-Sterling,CO Micropolitan Statistical Area,http://logancounty.colorado.gov/
 Mesa County,Colorado,http://www.mesacounty.us
-Grand Junction,CO Metropolitan Statistical Area,http://www.mesacounty.us
 Mineral County,Colorado,http://mineralcounty.colorado.gov/
 Moffat County,Colorado,http://moffatcounty.colorado.gov/
-Craig,CO Micropolitan Statistical Area,http://moffatcounty.colorado.gov/
 Montezuma County,Colorado,https://montezumacounty.org
 Montrose County,Colorado,http://www.montrosecounty.net
-Montrose,CO Micropolitan Statistical Area,http://www.montrosecounty.net
 Morgan County,Colorado,http://morgancounty.colorado.gov/
-Fort Morgan,CO Micropolitan Statistical Area,http://morgancounty.colorado.gov/
 Otero County,Colorado,https://oterocounty.colorado.gov
 Ouray County,Colorado,http://www.ouraycountyco.gov
 Park County,Colorado,http://www.parkco.us
@@ -337,49 +256,35 @@ Phillips County,Colorado,http://phillipscounty.colorado.gov/
 Pitkin County,Colorado,http://www.pitkincounty.com/
 Prowers County,Colorado,http://www.prowerscounty.net
 Pueblo County,Colorado,http://county.pueblo.org/
-Pueblo,CO Metropolitan Statistical Area,http://county.pueblo.org/
 Rio Blanco County,Colorado,http://www.rbc.us
 Rio Grande County,Colorado,http://www.riograndecounty.org
 Routt County,Colorado,http://www.co.routt.co.us/
-Steamboat Springs,CO Micropolitan Statistical Area,http://www.co.routt.co.us/
 Saguache County,Colorado,http://saguachecounty.colorado.gov/
 San Juan County,Colorado,http://sanjuancounty.colorado.gov/
 San Miguel County,Colorado,https://www.sanmiguelcountyco.gov/
 Sedgwick County,Colorado,http://sedgwickcounty.colorado.gov/
 Summit County,Colorado,http://www.summitcountyco.gov/
-Breckenridge,CO Micropolitan Statistical Area,http://www.summitcountyco.gov/
 Teller County,Colorado,http://www.co.teller.co.us
 Washington County,Colorado,http://washingtoncounty.colorado.gov/
 Weld County,Colorado,http://www.weldgov.com
-Greeley,CO Metropolitan Statistical Area,http://www.weldgov.com
 Yuma County,Colorado,http://www.yumacounty.net
-Norwich-New London,CT Metropolitan Statistical Area,http://seccog.org/
-Worcester,MA-CT Metropolitan Statistical Area,http://www.worcesterma.gov
 Kent County,Delaware,http://www.co.kent.de.us
-Dover,DE Metropolitan Statistical Area,http://www.co.kent.de.us
 New Castle County,Delaware,http://www.nccde.org
 Sussex County,Delaware,http://www.sussexcountyde.gov
 Washington,D.C.,https://dc.gov/
 Alachua County,Florida,http://www.alachuacounty.us/
 Baker County,Florida,http://www.bakercountyfl.org
 Bay County,Florida,http://www.co.bay.fl.us/
-Panama City,FL Metropolitan Statistical Area,http://www.co.bay.fl.us/
 Bradford County,Florida,http://www.bradfordcountyfl.gov/
 Brevard County,Florida,https://www.brevardfl.gov/
-Palm Bay-Melbourne-Titusville,FL Metropolitan Statistical Area,https://www.brevardfl.gov/
 Broward County,Florida,http://www.broward.org
 Calhoun County,Florida,https://calhouncountygov.com/
 Charlotte County,Florida,http://www.CharlotteCountyfl.gov
-Punta Gorda,FL Metropolitan Statistical Area,http://www.CharlotteCountyfl.gov
 Citrus County,Florida,https://www.citrusbocc.com/
-Homosassa Springs,FL Metropolitan Statistical Area,https://www.citrusbocc.com/
 Clay County,Florida,http://www.claycountygov.com/
 Collier County,Florida,http://www.colliergov.net
-Naples-Immokalee-Marco Island,FL Metropolitan Statistical Area,http://www.colliergov.net
 Columbia County,Florida,http://www.columbiacountyfla.com
-Lake City,FL Micropolitan Statistical Area,http://www.columbiacountyfla.com
 DeSoto County,Florida,http://www.desotobocc.com
-Arcadia,FL Micropolitan Statistical Area,http://www.desotobocc.com
 Dixie County,Florida,http://dixie.fl.gov
 Duval County,Florida,http://coj.net
 Escambia County,Florida,http://myescambia.com
@@ -391,53 +296,42 @@ Glades County,Florida,http://www.myglades.com
 Gulf County,Florida,http://www.gulfcounty-fl.gov/
 Hamilton County,Florida,http://www.hamiltoncountyfl.com
 Hardee County,Florida,http://www.hardeecounty.net
-Wauchula,FL Micropolitan Statistical Area,http://www.hardeecounty.net
 Hendry County,Florida,http://www.hendryfla.net
-Clewiston,FL Micropolitan Statistical Area,http://www.hendryfla.net
 Hernando County,Florida,http://www.hernandocounty.us
 Highlands County,Florida,http://www.hcbcc.net
-Sebring,FL Metropolitan Statistical Area,http://www.hcbcc.net
 Hillsborough County,Florida,http://www.hillsboroughcounty.org/
 Holmes County,Florida,https://holmescountyonline.com/
 Indian River County,Florida,http://www.ircgov.com/
-Sebastian-Vero Beach,FL Metropolitan Statistical Area,http://www.ircgov.com/
 Jackson County,Florida,http://www.jacksoncountyfl.net/
 Jefferson County,Florida,http://www.jeffersoncountyfl.gov
 Lafayette County,Florida,http://www.lafayettecountyfl.net
 Lake County,Florida,http://www.lakecountyfl.gov
 Lee County,Florida,http://www.leegov.com
-Cape Coral-Fort Myers,FL Metropolitan Statistical Area,http://www.leegov.com
 Leon County,Florida,http://www.leoncountyfl.gov/
 Levy County,Florida,http://www.levycounty.org
 Liberty County,Florida,https://libertyclerk.com/
 Madison County,Florida,http://www.madisoncountyfl.com
 Manatee County,Florida,http://www.mymanatee.org
 Marion County,Florida,http://www.marioncountyfl.org
-Ocala,FL Metropolitan Statistical Area,http://www.marioncountyfl.org
 Martin County,Florida,http://www.martin.fl.us
 Miami-Dade County,Florida,http://www.miamidade.gov
 Monroe County,Florida,http://www.monroecounty-fl.gov
-Key West,FL Micropolitan Statistical Area,http://www.monroecounty-fl.gov
 Nassau County,Florida,http://www.nassaucountyfl.com
 Okaloosa County,Florida,http://www.co.okaloosa.fl.us/
 Okeechobee County,Florida,http://www.co.okeechobee.fl.us
-Okeechobee,FL Micropolitan Statistical Area,http://www.co.okeechobee.fl.us
 Orange County,Florida,http://www.orangecountyfl.net/
 Osceola County,Florida,http://www.osceola.org/
 Palm Beach County,Florida,http://www.co.palm-beach.fl.us
 Pasco County,Florida,http://www.pascocountyfl.net
 Pinellas County,Florida,http://www.pinellascounty.org/
 Polk County,Florida,http://www.polk-county.net
-Lakeland-Winter Haven,FL Metropolitan Statistical Area,http://www.polk-county.net
 Putnam County,Florida,https://main.putnam-fl.com/
-Palatka,FL Micropolitan Statistical Area,https://main.putnam-fl.com/
 St. Johns County,Florida,http://www.sjcfl.us
 St. Lucie County,Florida,http://www.stlucieco.gov/
 Santa Rosa County,Florida,http://www.santarosa.fl.gov/
 Sarasota County,Florida,http://www.scgov.net
 Seminole County,Florida,http://www.seminolecountyfl.gov
 Sumter County,Florida,http://www.sumtercountyfl.gov/
-The Villages,FL Metropolitan Statistical Area,http://www.sumtercountyfl.gov/
 Suwannee County,Florida,https://suwanneecountyfl.gov/
 Taylor County,Florida,http://www.taylorcountygov.com
 Union County,Florida,http://www.unioncounty-fl.gov/
@@ -446,14 +340,11 @@ Wakulla County,Florida,http://www.mywakulla.com
 Walton County,Florida,http://www.co.walton.fl.us
 Appling County,Georgia,http://www.baxley.org/
 Atkinson County,Georgia,https://atkinsoncounty.org/
-Douglas,GA Micropolitan Statistical Area,http://coffeecountygov.com/
 Baldwin County,Georgia,http://www.baldwincountyga.com
 Banks County,Georgia,http://www.bankscountyga.org
 Barrow County,Georgia,http://www.barrowga.org
-Atlanta-Sandy Springs-Roswell,GA Metropolitan Statistical Area,https://www.metroatlantachamber.com/
 Bartow County,Georgia,http://www.bartowga.org/
 Ben Hill County,Georgia,http://www.benhillcounty.com
-Fitzgerald,GA Micropolitan Statistical Area,http://www.benhillcounty.com
 Berrien County,Georgia,http://www.berriencountygeorgia.com/
 Bibb County,Georgia,http://www.co.bibb.ga.us
 Bleckley County,Georgia,http://www.bleckley.org/index.asp
@@ -461,12 +352,10 @@ Brantley County,Georgia,https://brantleycountyga.com/
 Brooks County,Georgia,https://www.brookscountyga.gov/
 Bryan County,Georgia,http://www.bryancountyga.org/
 Bulloch County,Georgia,http://www.bullochcounty.net/
-Statesboro,GA Micropolitan Statistical Area,http://www.bullochcounty.net/
 Burke County,Georgia,http://www.burkecounty-ga.gov/
 Butts County,Georgia,http://buttscountyga.com/
 Calhoun County,Georgia,http://calhouncountyga.com
 Camden County,Georgia,http://www.co.camden.ga.us/
-St. Marys,GA Micropolitan Statistical Area,http://www.co.camden.ga.us/
 Candler County,Georgia,http://metter-candler.com/
 Carroll County,Georgia,http://www.carrollcountyga.com
 Catoosa County,Georgia,http://www.catoosa.com
@@ -481,15 +370,12 @@ Clinch County,Georgia,https://clinchcountyga.gov
 Cobb County,Georgia,http://www.cobbcounty.org
 Coffee County,Georgia,http://coffeecountygov.com/
 Colquitt County,Georgia,http://www.ccboc.com/
-Moultrie,GA Micropolitan Statistical Area,http://www.ccboc.com/
 Columbia County,Georgia,http://www.columbiacountyga.gov/
 Cook County,Georgia,http://www.cookcountyga.us
 Crisp County,Georgia,http://www.crispcounty.com
-Cordele,GA Micropolitan Statistical Area,http://www.crispcounty.com
 Dade County,Georgia,http://www.dadecounty-ga.gov/
 Dawson County,Georgia,http://www.dawsoncounty.org/
 Decatur County,Georgia,http://www.decaturcountyga.gov
-Bainbridge,GA Micropolitan Statistical Area,http://www.decaturcountyga.gov
 DeKalb County,Georgia,http://www.dekalbcountyga.gov
 Dodge County,Georgia,http://www.dodgecountyga.com
 Dooly County,Georgia,http://doolycountyga.com/
@@ -511,12 +397,10 @@ Gilmer County,Georgia,http://www.gilmercounty-ga.gov
 Glascock County,Georgia,http://www.glascockcountyga.com
 Glynn County,Georgia,http://www.glynncounty.org
 Gordon County,Georgia,http://gordoncounty.org/
-Calhoun,GA Micropolitan Statistical Area,http://gordoncounty.org/
 Grady County,Georgia,http://www.gradycountyga.gov
 Greene County,Georgia,http://www.greenecountyga.gov/
 Gwinnett County,Georgia,http://www.gwinnettcounty.com
 Habersham County,Georgia,http://www.co.habersham.ga.us/
-Cornelia,GA Micropolitan Statistical Area,http://www.co.habersham.ga.us/
 Hall County,Georgia,http://www.hallcounty.org
 Hancock County,Georgia,http://www.hancockcountyga.gov/
 Harris County,Georgia,http://www.harriscountyga.gov
@@ -526,7 +410,6 @@ Henry County,Georgia,http://www.co.henry.ga.us
 Houston County,Georgia,http://www.houstoncountyga.com
 Irwin County,Georgia,http://www.ocillachamber.net/
 Jackson County,Georgia,http://www.jacksoncountygov.com
-Jefferson,GA Micropolitan Statistical Area,http://www.jacksoncountygov.com
 Jeff Davis County,Georgia,http://www.hazlehurst-jeffdavis.com/
 Jefferson County,Georgia,https://www.jeffersoncountyga.gov/
 Jenkins County,Georgia,http://www.jenkinscountyga.com/
@@ -537,7 +420,6 @@ Lanier County,Georgia,http://laniercountyboc.com/
 Laurens County,Georgia,http://www.laurenscoga.org/
 Lee County,Georgia,http://www.lee.ga.us/
 Liberty County,Georgia,http://www.libertycountyga.com/
-Hinesville,GA Metropolitan Statistical Area,http://www.cityofhinesville.org
 Lincoln County,Georgia,http://www.lincolncountyga.com
 Long County,Georgia,http://www.longcountyboc.com/
 Lowndes County,Georgia,http://www.lowndescounty.com
@@ -562,7 +444,6 @@ Pickens County,Georgia,http://pickenscountyga.gov/
 Pierce County,Georgia,https://piercecountyga.gov/
 Pike County,Georgia,http://www.pikecoga.com/
 Polk County,Georgia,http://www.polkgeorgia.org/
-Cedartown,GA Micropolitan Statistical Area,http://www.polkgeorgia.org/
 Pulaski County,Georgia,http://hawkinsville-pulaski.org
 Putnam County,Georgia,http://www.putnamcountyga.us
 Rabun County,Georgia,http://www.rabuncounty.ga.gov
@@ -579,26 +460,21 @@ Tattnall County,Georgia,http://www.tattnall.com
 Telfair County,Georgia,http://telfaircounty.georgia.gov/
 Terrell County,Georgia,http://www.terrellcounty-ga.com/
 Thomas County,Georgia,http://www.thomascountyboc.org
-Thomasville,GA Micropolitan Statistical Area,http://www.thomascountyboc.org
 Tift County,Georgia,http://www.tiftcounty.org
-Tifton,GA Micropolitan Statistical Area,http://www.tiftcounty.org
 Toombs County,Georgia,http://www.toombscountyga.gov/
 Towns County,Georgia,http://www.townscountyga.com/
 Treutlen County,Georgia,http://www.soperton-treutlen.org/county.html
 Troup County,Georgia,http://www.troupcountyga.org
-LaGrange,GA Micropolitan Statistical Area,http://www.troupcountyga.org
 Turner County,Georgia,http://www.turnercountygeorgia.com
 Twiggs County,Georgia,http://www.twiggscounty.us
 Union County,Georgia,http://www.unioncountyga.gov/
 Upson County,Georgia,http://www.upsoncountyga.org/
-Thomaston,GA Micropolitan Statistical Area,http://www.upsoncountyga.org/
 Walker County,Georgia,http://www.walkercountyga.gov/
 Walton County,Georgia,http://www.waltoncountyga.gov/
 Ware County,Georgia,http://www.warecounty.com
 Warren County,Georgia,http://www.warrencountyga.com
 Washington County,Georgia,http://washingtoncountyga.gov/
 Wayne County,Georgia,https://www.waynecountyga.us/
-Jesup,GA Micropolitan Statistical Area,https://www.waynecountyga.us/
 Webster County,Georgia,http://www.webstercountyga.org
 Wheeler County,Georgia,http://wheelercounty.georgia.gov/
 White County,Georgia,http://www.whitecountyga.gov
@@ -608,22 +484,17 @@ Wilkes County,Georgia,http://www.washingtonwilkes.org/
 Wilkinson County,Georgia,http://www.wilkinsoncounty.net/
 Worth County,Georgia,http://worthcountyboc.com/
 Hawaii County,Hawaii,http://www.hawaiicounty.gov
-Hilo,HI Micropolitan Statistical Area,http://www.hawaiicounty.gov
 Honolulu County,Hawaii,http://www.honolulu.gov/
-Urban Honolulu,HI Metropolitan Statistical Area,http://www.honolulu.gov/
 Kauai County,Hawaii,https://www.kauai.gov/
-Kapaa,HI Micropolitan Statistical Area,https://www.kauai.gov/
 Maui County,Hawaii,http://www.mauicounty.gov
 Ada County,Idaho,http://www.adaweb.net
 Adams County,Idaho,http://www.co.adams.id.us
 Bannock County,Idaho,http://www.bannockcounty.us
 Bear Lake County,Idaho,http://bearlakecounty.info
 Bingham County,Idaho,http://www.co.bingham.id.us
-Blackfoot,ID Micropolitan Statistical Area,http://www.co.bingham.id.us
 Blaine County,Idaho,http://www.co.blaine.id.us
 Boise County,Idaho,http://www.boisecounty.us
 Bonner County,Idaho,http://bonnercounty.us/
-Sandpoint,ID Micropolitan Statistical Area,http://bonnercounty.us/
 Bonneville County,Idaho,https://www.bonnevillecountyidaho.gov
 Boundary County,Idaho,http://boundarycountyid.org
 Camas County,Idaho,http://camascounty.id.gov/
@@ -634,9 +505,7 @@ Clark County,Idaho,http://www.clark-co.id.gov
 Clearwater County,Idaho,http://www.clearwatercounty.org
 Custer County,Idaho,http://www.co.custer.id.us
 Elmore County,Idaho,http://elmorecounty.org
-Mountain Home,ID Micropolitan Statistical Area,http://elmorecounty.org
 Franklin County,Idaho,http://franklincountyidaho.org
-Logan,UT-ID Metropolitan Statistical Area,http://www.loganutah.org
 Fremont County,Idaho,http://www.co.fremont.id.us
 Gem County,Idaho,http://www.co.gem.id.us
 Gooding County,Idaho,http://www.goodingcounty.org/
@@ -644,9 +513,7 @@ Idaho County,Idaho,http://idahocounty.org
 Jefferson County,Idaho,http://www.co.jefferson.id.us
 Jerome County,Idaho,http://www.jeromecountyid.us
 Kootenai County,Idaho,http://www.kcgov.us
-Coeur d'Alene,ID Metropolitan Statistical Area,http://www.kcgov.us
 Latah County,Idaho,http://latah.id.us
-Moscow,ID Micropolitan Statistical Area,http://latah.id.us
 Lemhi County,Idaho,http://www.lemhicountyidaho.org
 Lewis County,Idaho,http://lewiscountyid.us
 Lincoln County,Idaho,http://www.lincolncountyid.us/
@@ -671,7 +538,6 @@ Bureau County,Illinois,http://bureaucounty-il.gov
 Cass County,Illinois,https://co.cass.il.us/
 Champaign County,Illinois,https://www.co.champaign.il.us/HeaderMenu/Home.php
 Christian County,Illinois,https://christiancountyil.com/
-Taylorville,IL Micropolitan Statistical Area,https://christiancountyil.com/
 Clark County,Illinois,http://www.clarkcountyil.org
 Clay County,Illinois,http://claycountyillinois.org
 Clinton County,Illinois,http://www.clintonco.illinois.gov
@@ -685,7 +551,6 @@ Douglas County,Illinois,http://www.douglascountyil.com/
 DuPage County,Illinois,http://www.dupageco.org
 Edgar County,Illinois,http://www.edgarcountyillinois.com
 Effingham County,Illinois,http://www.co.effingham.il.us
-Effingham,IL Micropolitan Statistical Area,http://www.co.effingham.il.us
 Fayette County,Illinois,http://www.fayettecountyillinois.org
 Ford County,Illinois,http://www.fordcountycourthouse.com
 Franklin County,Illinois,http://www.franklincountyil.gov
@@ -698,31 +563,23 @@ Henderson County,Illinois,http://www.hendersoncountyedc.com
 Henry County,Illinois,http://www.henrycty.com
 Iroquois County,Illinois,http://www.co.iroquois.il.us
 Jackson County,Illinois,http://www.jacksoncounty-il.gov/
-Carbondale-Marion,IL Metropolitan Statistical Area,http://www.explorecarbondale.com
 Jefferson County,Illinois,http://www.jeffersoncountyillinois.com/
 Jersey County,Illinois,http://www.jerseycounty-il.us
 Jo Daviess County,Illinois,https://www.jodaviesscountyil.gov
 Kane County,Illinois,http://countyofkane.org
 Kankakee County,Illinois,http://www.co.kankakee.il.us
-Kankakee,IL Metropolitan Statistical Area,http://www.co.kankakee.il.us
 Kendall County,Illinois,http://www.co.kendall.il.us
 Knox County,Illinois,http://www.knoxcountyil.com
 Lake County,Illinois,http://www.lakecountyil.gov
 LaSalle County,Illinois,https://lasallecountyil.gov/
 Lawrence County,Illinois,http://www.lawrencecountyillinois.com
 Lee County,Illinois,http://www.leecountyil.com/
-Dixon,IL Micropolitan Statistical Area,http://www.leecountyil.com/
 Livingston County,Illinois,http://www.livingstoncounty-il.org/wordpress/
-Pontiac,IL Micropolitan Statistical Area,http://www.livingstoncounty-il.org/wordpress/
 Logan County,Illinois,https://logancountyil.gov/index.php?lang=en
-Lincoln,IL Micropolitan Statistical Area,https://logancountyil.gov/index.php?lang=en
 McDonough County,Illinois,http://mcg.mcdonough.il.us/
-Macomb,IL Micropolitan Statistical Area,http://mcg.mcdonough.il.us/
 McHenry County,Illinois,http://www.co.mchenry.il.us
 McLean County,Illinois,http://www.mcleancountyil.gov/
-Bloomington,IL Metropolitan Statistical Area,http://www.cityblm.org
 Macon County,Illinois,http://www.co.macon.il.us/
-Decatur,IL Metropolitan Statistical Area,http://www.co.macon.il.us/
 Macoupin County,Illinois,http://www.macoupincountyil.gov/
 Madison County,Illinois,https://www.madisoncountyil.gov
 Marshall County,Illinois,http://www.marshallcountyillinois.com
@@ -733,7 +590,6 @@ Monroe County,Illinois,https://monroecountyil.gov/
 Montgomery County,Illinois,http://www.montgomeryco.com
 Moultrie County,Illinois,http://www.moultriecountyil.com/
 Ogle County,Illinois,http://www.oglecounty.org
-Rochelle,IL Micropolitan Statistical Area,http://www.oglecounty.org
 Peoria County,Illinois,https://www.peoriacounty.org
 Perry County,Illinois,https://perryil.com
 Piatt County,Illinois,http://www.piattcounty.org
@@ -750,7 +606,6 @@ Schuyler County,Illinois,http://www.schuylercountyillinois.com
 Shelby County,Illinois,http://www.shelbycounty-il.com
 Stark County,Illinois,http://www.starkcountyillinois.com/
 Stephenson County,Illinois,http://www.co.stephenson.il.us
-Freeport,IL Micropolitan Statistical Area,http://www.co.stephenson.il.us
 Tazewell County,Illinois,http://www.tazewell.com
 Union County,Illinois,http://www.unioncountyil.gov/
 Warren County,Illinois,http://www.warrencountyil.com
@@ -758,82 +613,60 @@ Washington County,Illinois,http://www.washingtonco.illinois.gov/
 Wayne County,Illinois,http://www.fairfield-il.com/county/
 White County,Illinois,http://www.whitecounty-il.gov
 Whiteside County,Illinois,http://www.whiteside.org
-Sterling,IL Micropolitan Statistical Area,http://www.whiteside.org
 Will County,Illinois,http://www.willcountyillinois.com
 Williamson County,Illinois,http://www.williamsoncountyil.gov/
 Winnebago County,Illinois,http://www.wincoil.us
 Woodford County,Illinois,http://www.woodford-county.org/
 Adams County,Indiana,http://www.co.adams.in.us
-Decatur,IN Micropolitan Statistical Area,http://www.co.adams.in.us
 Allen County,Indiana,http://www.co.allen.in.us
 Bartholomew County,Indiana,http://www.bartholomew.in.gov
-Columbus,IN Metropolitan Statistical Area,http://www.bartholomew.in.gov
 Benton County,Indiana,http://www.bentoncounty.in.gov/
 Boone County,Indiana,http://boonecounty.in.gov/
 Brown County,Indiana,http://browncounty-in.gov/Home.aspx
 Carroll County,Indiana,http://www.carrollcountyindiana.com
 Cass County,Indiana,http://www.co.cass.in.us
-Logansport,IN Micropolitan Statistical Area,http://www.co.cass.in.us
 Clark County,Indiana,http://www.co.clark.in.us
 Clinton County,Indiana,http://www.clintonco.com/
-Frankfort,IN Micropolitan Statistical Area,http://www.clintonco.com/
 Crawford County,Indiana,http://www.crawfordcounty.in.gov/
 Daviess County,Indiana,http://www.daviess.org/
-Washington,IN Micropolitan Statistical Area,http://www.daviess.org/
 Dearborn County,Indiana,http://www.dearborncounty.org/
 Decatur County,Indiana,http://www.decaturcounty.in.gov
-Greensburg,IN Micropolitan Statistical Area,http://www.decaturcounty.in.gov
 DeKalb County,Indiana,http://www.co.dekalb.in.us
-Auburn,IN Micropolitan Statistical Area,http://www.co.dekalb.in.us
 Delaware County,Indiana,http://www.co.delaware.in.us
-Muncie,IN Metropolitan Statistical Area,http://www.co.delaware.in.us
 Elkhart County,Indiana,http://www.elkhartcountyindiana.com
-Elkhart-Goshen,IN Metropolitan Statistical Area,http://www.elkhartcountyindiana.com
 Fayette County,Indiana,http://connersvillecommunity.com/fayette_county
-Connersville,IN Micropolitan Statistical Area,http://connersvillecommunity.com/fayette_county
 Floyd County,Indiana,http://www.floydcounty.in.gov
 Franklin County,Indiana,http://www.franklincountyin.com
 Fulton County,Indiana,http://www.co.fulton.in.us
 Gibson County,Indiana,http://gibsoncounty-in.gov/
 Grant County,Indiana,http://www.grantcounty.net
-Marion,IN Micropolitan Statistical Area,http://www.grantcounty.net
 Greene County,Indiana,http://www.co.greene.in.us/
 Hamilton County,Indiana,http://www.hamiltoncounty.in.gov
 Hancock County,Indiana,http://www.hancockcoingov.org
 Hendricks County,Indiana,http://www.co.hendricks.in.us
 Henry County,Indiana,http://www.henryco.net/
-New Castle,IN Micropolitan Statistical Area,http://www.henryco.net/
 Howard County,Indiana,http://www.co.howard.in.us
 Huntington County,Indiana,http://www.huntington.in.us/county/
-Huntington,IN Micropolitan Statistical Area,http://www.huntington.in.us/county/
 Jackson County,Indiana,http://www.jacksoncounty.in.gov
-Seymour,IN Micropolitan Statistical Area,http://www.jacksoncounty.in.gov
 Jasper County,Indiana,http://www.jaspercountyin.gov
 Jay County,Indiana,http://www.co.jay.in.us
 Jefferson County,Indiana,http://jeffersoncounty.in.gov/index.php
 Johnson County,Indiana,http://www.co.johnson.in.us
 Knox County,Indiana,http://www.knoxcounty.in.gov
-Vincennes,IN Micropolitan Statistical Area,http://www.knoxcounty.in.gov
 Kosciusko County,Indiana,http://www.kcgov.com
-Warsaw,IN Micropolitan Statistical Area,http://www.kcgov.com
 LaGrange County,Indiana,http://www.lagrangecounty.org
 Lake County,Indiana,http://www.lakecountyin.org/
 LaPorte County,Indiana,http://www.laportecounty.org
-Michigan City-La Porte,IN Metropolitan Statistical Area,http://www.laportecounty.org
 Madison County,Indiana,http://www.madisoncty.com
 Marion County,Indiana,http://www.indy.gov/eGov/County
 Marshall County,Indiana,http://www.co.marshall.in.us
-Plymouth,IN Micropolitan Statistical Area,http://www.co.marshall.in.us
 Martin County,Indiana,http://www.loogootee.com/government/martincountygovernment.html
 Miami County,Indiana,http://www.MiamiCountyIN.gov
-Peru,IN Micropolitan Statistical Area,http://www.MiamiCountyIN.gov
 Monroe County,Indiana,http://www.co.monroe.in.us
 Montgomery County,Indiana,http://www.montgomerycounty.in.gov
-Crawfordsville,IN Micropolitan Statistical Area,http://www.montgomerycounty.in.gov
 Morgan County,Indiana,http://www.morgancounty.in.gov/
 Newton County,Indiana,http://www.newtoncounty.in.gov/
 Noble County,Indiana,http://nobleco.squarespace.com/
-Kendallville,IN Micropolitan Statistical Area,http://nobleco.squarespace.com/
 Owen County,Indiana,http://owencounty.in.gov/
 Parke County,Indiana,http://www.parkecounty.org
 Perry County,Indiana,http://www.perrycounty.in.gov/
@@ -850,7 +683,6 @@ Shelby County,Indiana,http://www.co.shelby.in.us
 Spencer County,Indiana,http://spencercounty.in.gov/
 Starke County,Indiana,http://www.co.starke.in.us
 Steuben County,Indiana,http://www.steubencounty.com/
-Angola,IN Micropolitan Statistical Area,http://www.steubencounty.com/
 Sullivan County,Indiana,http://www.sullivancounty.in.gov
 Switzerland County,Indiana,http://www.switzerland-county.com/
 Tippecanoe County,Indiana,https://www.tippecanoe.in.gov/
@@ -859,12 +691,10 @@ Vanderburgh County,Indiana,http://www.vanderburghgov.org
 Vermillion County,Indiana,http://www.vermilliongov.us
 Vigo County,Indiana,http://www.vigocounty.in.gov/
 Wabash County,Indiana,http://www.wabashcounty.in.gov/
-Wabash,IN Micropolitan Statistical Area,http://www.wabashcounty.in.gov/
 Warren County,Indiana,http://www.warrencounty.in.gov/
 Warrick County,Indiana,http://www.warrickcounty.gov/
 Washington County,Indiana,http://www.washingtoncounty.in.gov
 Wayne County,Indiana,http://co.wayne.in.us
-Richmond,IN Micropolitan Statistical Area,http://richmondindiana.gov
 Wells County,Indiana,http://www.wellscounty.org
 White County,Indiana,http://www.whitecountyin.us/
 Whitley County,Indiana,https://whitleygov.com/
@@ -875,11 +705,9 @@ Appanoose County,Iowa,https://appanoosecounty.iowa.gov/
 Audubon County,Iowa,https://www.auduboncountyia.gov/
 Benton County,Iowa,https://www.bentoncountyia.gov/
 Boone County,Iowa,https://www.boonecounty.iowa.gov/
-Ames,IA Metropolitan Statistical Area,https://www.storycountyiowa.gov/
 Bremer County,Iowa,https://www.bremercounty.iowa.gov/
 Buchanan County,Iowa,http://www.buchanancountyiowa.org
 Buena Vista County,Iowa,https://buenavistacounty.iowa.gov/
-Storm Lake,IA Micropolitan Statistical Area,https://buenavistacounty.iowa.gov/
 Butler County,Iowa,https://butlercounty.iowa.gov/
 Calhoun County,Iowa,https://www.calhouncounty.iowa.gov/
 Carroll County,Iowa,https://www.carrollcountyiowa.gov/
@@ -889,10 +717,8 @@ Cherokee County,Iowa,https://www.cherokeecounty.iowa.gov/
 Chickasaw County,Iowa,https://chickasawcounty.iowa.gov/
 Clarke County,Iowa,https://clarkecounty.iowa.gov/
 Clay County,Iowa,https://claycounty.iowa.gov/
-Spencer,IA Micropolitan Statistical Area,https://claycounty.iowa.gov/
 Clayton County,Iowa,http://www.claytoncountyia.gov
 Clinton County,Iowa,http://www.clintoncounty-ia.gov
-Clinton,IA Micropolitan Statistical Area,http://www.clintoncounty-ia.gov
 Crawford County,Iowa,https://www.crawfordcounty.iowa.gov/
 Dallas County,Iowa,https://www.dallascountyiowa.gov/
 Davis County,Iowa,http://www.daviscountyiowa.org
@@ -900,9 +726,7 @@ Decatur County,Iowa,http://www.decaturcountyiowa.org/
 Delaware County,Iowa,https://delawarecounty.iowa.gov/
 Des Moines County,Iowa,https://www.desmoinescounty.iowa.gov/
 Dickinson County,Iowa,https://dickinsoncountyiowa.gov/
-Spirit Lake,IA Micropolitan Statistical Area,https://dickinsoncountyiowa.gov/
 Dubuque County,Iowa,https://www.dubuquecountyiowa.gov/
-Dubuque,IA Metropolitan Statistical Area,https://www.dubuquecountyiowa.gov/
 Emmet County,Iowa,https://emmetcounty.iowa.gov/
 Fayette County,Iowa,https://fayettecounty.iowa.gov/
 Floyd County,Iowa,https://www.floydco.iowa.gov/
@@ -924,7 +748,6 @@ Jackson County,Iowa,https://jacksoncounty.iowa.gov/
 Jasper County,Iowa,http://www.co.jasper.ia.us
 Des Moines,Iowa,http://www.dmgov.org/
 Jefferson County,Iowa,https://jeffersoncounty.iowa.gov/
-Fairfield,IA Micropolitan Statistical Area,https://jeffersoncounty.iowa.gov/
 Johnson County,Iowa,https://www.johnsoncountyiowa.gov/
 Jones County,Iowa,https://www.jonescountyiowa.gov/
 Keokuk County,Iowa,https://www.keokukcountyia.com/
@@ -935,10 +758,8 @@ Louisa County,Iowa,https://louisacountyia.gov/
 Lyon County,Iowa,https://lyoncounty.iowa.gov/
 Madison County,Iowa,https://madisoncounty.iowa.gov/
 Mahaska County,Iowa,https://www.mahaskacountyia.gov/
-Oskaloosa,IA Micropolitan Statistical Area,https://www.mahaskacountyia.gov/
 Marion County,Iowa,https://www.marioncountyiowa.gov/
 Marshall County,Iowa,http://www.marshallcountyia.gov
-Marshalltown,IA Micropolitan Statistical Area,http://www.marshallcountyia.gov
 Mills County,Iowa,https://www.millscountyiowa.gov/
 Mitchell County,Iowa,https://mitchellcounty.iowa.gov/
 Monona County,Iowa,https://www.mononacounty.org/
@@ -965,12 +786,10 @@ Taylor County,Iowa,https://taylorcounty.iowa.gov/
 Union County,Iowa,https://unioncountyiowa.gov/
 Van Buren County,Iowa,https://www.vanburencounty.iowa.gov/
 Wapello County,Iowa,http://www.wapellocounty.org
-Ottumwa,IA Micropolitan Statistical Area,http://ottumwa.us
 Warren County,Iowa,http://www.warrencountyia.org
 Washington County,Iowa,https://washingtoncounty.iowa.gov/
 Wayne County,Iowa,https://www.waynecountyia.com/
 Webster County,Iowa,https://www.webstercountyia.gov/
-Fort Dodge,IA Micropolitan Statistical Area,https://www.webstercountyia.gov/
 Winnebago County,Iowa,https://www.winnebagocountyiowa.gov
 Winneshiek County,Iowa,https://winneshiekcounty.iowa.gov/
 Woodbury County,Iowa,http://www.woodburycountyiowa.gov
@@ -979,10 +798,8 @@ Wright County,Iowa,https://wrightcounty.iowa.gov/
 Allen County,Kansas,https://www.allencounty.org/
 Anderson County,Kansas,http://www.andersoncountyks.org/
 Atchison County,Kansas,https://www.atchisoncountyks.org/
-Atchison,KS Micropolitan Statistical Area,https://www.atchisoncountyks.org/
 Barber County,Kansas,http://barber.ks.gov/
 Barton County,Kansas,https://www.bartoncounty.org/
-Great Bend,KS Micropolitan Statistical Area,https://www.bartoncounty.org/
 Bourbon County,Kansas,https://www.bourboncountyks.org/
 Brown County,Kansas,https://www.brcoks.org/
 Butler County,Kansas,https://www.bucoks.com/
@@ -997,23 +814,17 @@ Coffey County,Kansas,https://www.coffeycountyks.org/
 Comanche County,Kansas,http://www.comanchecoks.org/
 Cowley County,Kansas,https://www.cowleycounty.org/
 Crawford County,Kansas,https://www.crawfordcountykansas.org/
-Pittsburg,KS Micropolitan Statistical Area,https://www.crawfordcountykansas.org/
 Decatur County,Kansas,http://oberlinks.com/
 Dickinson County,Kansas,http://www.dkcoks.org/
 Doniphan County,Kansas,https://dpcountyks.com/
 Douglas County,Kansas,https://www.douglascountyks.org/
-Lawrence,KS Metropolitan Statistical Area,https://www.douglascountyks.org/
 Edwards County,Kansas,http://www.edwardscounty.org/
 Elk County,Kansas,https://www.elkcountyks.org/
 Ellis County,Kansas,https://www.ellisco.net/
-Hays,KS Micropolitan Statistical Area,https://www.ellisco.net/
 Ellsworth County,Kansas,http://www.ellsworthcounty.org/
 Finney County,Kansas,https://www.finneycounty.org/
-Garden City,KS Micropolitan Statistical Area,https://www.garden-city.org/
 Ford County,Kansas,http://www.fordcounty.net/
-Dodge City,KS Micropolitan Statistical Area,http://www.fordcounty.net/
 Franklin County,Kansas,http://www.franklincoks.org/
-Ottawa,KS Micropolitan Statistical Area,http://www.franklincoks.org/
 Geary County,Kansas,https://www.gearycounty.org/
 Gove County,Kansas,https://govecountyks.org/
 Graham County,Kansas,https://www.grahamcountyks.com/
@@ -1034,7 +845,6 @@ Kearny County,Kansas,https://www.kearnycountykansas.com/
 Kingman County,Kansas,https://www.kingmancoks.org/
 Kiowa County,Kansas,https://kiowacountyks.org/
 Labette County,Kansas,https://www.labettecounty.com/
-Parsons,KS Micropolitan Statistical Area,https://www.labettecounty.com/
 Lane County,Kansas,http://www.lanecountyks.org/
 Leavenworth County,Kansas,https://www.leavenworthcounty.gov/
 Lincoln County,Kansas,http://www.lincolncoks.com/
@@ -1042,14 +852,12 @@ Linn County,Kansas,https://www.linncountyks.com/
 Logan County,Kansas,https://www.discoveroakley.com/
 Lyon County,Kansas,https://lyoncounty.org/
 McPherson County,Kansas,https://www.mcphersoncountyks.us/
-McPherson,KS Micropolitan Statistical Area,https://www.mcphersoncountyks.us/
 Marion County,Kansas,https://www.marioncoks.net/
 Marshall County,Kansas,http://ks-marshall.manatron.com/
 Meade County,Kansas,http://ks-meade.manatron.com/
 Miami County,Kansas,https://www.miamicountyks.org//
 Mitchell County,Kansas,https://www.mitchellcountykansas.com/
 Montgomery County,Kansas,https://www.mgcountyks.org/
-Coffeyville,KS Micropolitan Statistical Area,https://www.mgcountyks.org/
 Morris County,Kansas,https://www.morriscountyks.org/
 Morton County,Kansas,https://mtcoks.com/
 Nemaha County,Kansas,https://www.nmcoks.us/
@@ -1065,7 +873,6 @@ Pottawatomie County,Kansas,https://www.pottcounty.org/
 Pratt County,Kansas,http://www.prattcounty.org/
 Rawlins County,Kansas,https://sites.google.com/a/rawlinscounty.org/rawlins-county-courthouse/
 Reno County,Kansas,https://www.renogov.org/
-Hutchinson,KS Micropolitan Statistical Area,https://www.renogov.org/
 Republic County,Kansas,http://republiccounty.org/
 Rice County,Kansas,https://www.ricecounty.us/
 Riley County,Kansas,https://www.rileycountyks.gov/
@@ -1076,7 +883,6 @@ Saline County,Kansas,https://www.saline.org/
 Scott County,Kansas,http://ks-scott.manatron.com
 Sedgwick County,Kansas,https://www.sedgwickcounty.org/
 Seward County,Kansas,http://www.sewardcountyks.org/
-Liberal,KS Micropolitan Statistical Area,http://www.sewardcountyks.org/
 Shawnee County,Kansas,http://www.snco.us/
 Sheridan County,Kansas,https://www.sheridancountyks.gov/
 Sherman County,Kansas,https://www.shermancountyks.gov/
@@ -1101,7 +907,6 @@ Ballard County,Kentucky,http://www.ballardcounty.ky.gov/
 Barren County,Kentucky,https://barrencounty.ky.gov/
 Bath County,Kentucky,http://bathcounty.ky.gov
 Bell County,Kentucky,http://bellcounty.ky.gov/default.htm
-Middlesborough,KY Micropolitan Statistical Area,http://bellcounty.ky.gov/default.htm
 Boone County,Kentucky,http://www.boonecountyky.org/
 Bourbon County,Kentucky,http://www.bourbonky.com/
 Boyd County,Kentucky,http://boydcountyky.gov/
@@ -1113,7 +918,6 @@ Bullitt County,Kentucky,http://bullittky.com
 Butler County,Kentucky,http://www.butlercounty.ky.gov/
 Caldwell County,Kentucky,http://www.caldwellcounty.ky.gov/
 Calloway County,Kentucky,http://www.callowaycounty-ky.gov
-Murray,KY Micropolitan Statistical Area,http://www.callowaycounty-ky.gov
 Campbell County,Kentucky,http://www.campbellcountyky.gov/
 Carlisle County,Kentucky,http://carlislecounty.ky.gov
 Carroll County,Kentucky,http://www.carrollcountygov.us
@@ -1141,7 +945,6 @@ Grant County,Kentucky,http://grantcounty.ky.gov
 Graves County,Kentucky,http://www.gravescountyky.com
 Grayson County,Kentucky,http://graysoncountyky.gov
 Green County,Kentucky,http://www.greencounty.ky.gov/
-Campbellsville,KY Micropolitan Statistical Area,http://www.taylorcounty.us/
 Greenup County,Kentucky,http://greenupcounty.ky.gov/Pages/default.aspx
 Hancock County,Kentucky,http://www.hancockky.us
 Hardin County,Kentucky,http://www.hcky.org
@@ -1152,7 +955,6 @@ Henderson County,Kentucky,http://hendersonky.us/
 Henry County,Kentucky,http://www.henrycountygov.com
 Hickman County,Kentucky,http://hickmancounty.ky.gov
 Hopkins County,Kentucky,http://hopkinscounty.ky.gov/
-Madisonville,KY Micropolitan Statistical Area,http://hopkinscounty.ky.gov/
 Jefferson County,Kentucky,http://www.louisvilleky.gov
 Jessamine County,Kentucky,http://www.jessamineco.com
 Johnson County,Kentucky,http://www.johnsoncoky.com
@@ -1179,7 +981,6 @@ Marion County,Kentucky,http://www.marioncounty.ky.gov/
 Marshall County,Kentucky,http://www.marshallcountyky.gov
 Martin County,Kentucky,http://www.martincountykentucky.com
 Mason County,Kentucky,http://masoncountykentucky.us/
-Maysville,KY Micropolitan Statistical Area,http://masoncountykentucky.us/
 Meade County,Kentucky,http://www.meadeky.gov/
 Menifee County,Kentucky,http://www.menifeecounty.ky.gov
 Mercer County,Kentucky,http://www.mercercounty.ky.gov
@@ -1198,7 +999,6 @@ Perry County,Kentucky,http://www.perrycounty.ky.gov
 Pike County,Kentucky,http://www.pikecountyky.gov/
 Powell County,Kentucky,http://powellcountyky.us/
 Pulaski County,Kentucky,http://pcgovt.com
-Somerset,KY Micropolitan Statistical Area,http://pcgovt.com
 Robertson County,Kentucky,http://www.robertsoncounty.ky.gov
 Rockcastle County,Kentucky,https://rockcastlecountyky.com/
 Rowan County,Kentucky,http://www.moreheadrowan.org/rowancounty
@@ -1219,13 +1019,11 @@ Webster County,Kentucky,http://www.webstercountyky.com
 Whitley County,Kentucky,http://www.whitleycountyfiscalcourt.com
 Woodford County,Kentucky,http://woodfordcounty.ky.gov
 Acadia Parish,Louisiana,http://www.appj.org/index.html
-Lafayette,LA Metropolitan Statistical Area,http://www.lafayettela.gov/
 Allen Parish,Louisiana,https://www.allenparish.com
 Ascension Parish,Louisiana,http://www.ascensionparish.net
 Assumption Parish,Louisiana,https://www.assumptionla.com/
 Avoyelles Parish,Louisiana,http://www.avoypj.org/
 Beauregard Parish,Louisiana,http://www.beauparish.org
-DeRidder,LA Micropolitan Statistical Area,http://www.cityofderidder.org
 Bienville Parish,Louisiana,http://www.bienvilleparish.org
 Bossier Parish,Louisiana,http://www.bossierparishla.gov/
 Caddo Parish,Louisiana,http://www.caddo.org
@@ -1237,7 +1035,6 @@ Concordia Parish,Louisiana,http://www.conppj.org/
 De Soto Parish,Louisiana,http://www.desotoppj.com
 East Baton Rouge Parish,Louisiana,https://www.brla.gov/
 East Feliciana Parish,Louisiana,https://www.eastfelicianaclerk.org/
-Alexandria,LA Metropolitan Statistical Area,http://cityofalexandriala.com/
 Iberia Parish,Louisiana,http://iberiaparishgovernment.com
 Iberville Parish,Louisiana,http://www.ibervilleparish.com
 Jackson Parish,Louisiana,http://www.jacksonparishpolicejury.org/Default.aspx
@@ -1245,11 +1042,9 @@ Jefferson Parish,Louisiana,http://www.jeffparish.net
 Lafayette Parish,Louisiana,http://www.lafayettetravel.com
 Lafourche Parish,Louisiana,http://www.lafourchegov.org
 Lincoln Parish,Louisiana,http://www.lincolnparish.org/
-Ruston,LA Micropolitan Statistical Area,http://www.lincolnparish.org/
 Livingston Parish,Louisiana,http://www.livingstonparishla.gov/
 Madison Parish,Louisiana,http://madisonparish.org
 Natchitoches Parish,Louisiana,https://www.npgov.org/
-Natchitoches,LA Micropolitan Statistical Area,https://www.npgov.org/
 Ouachita Parish,Louisiana,http://oppj.org/
 Plaquemines Parish,Louisiana,http://plaqueminesparish.com/
 Pointe Coupee Parish,Louisiana,http://www.pcpolicejury.org/
@@ -1262,36 +1057,28 @@ St. Helena Parish,Louisiana,http://sthelenaparish.la.gov/
 St. James Parish,Louisiana,http://www.stjamesla.com
 St. John the Baptist Parish,Louisiana,http://www.sjbparish.com
 St. Landry Parish,Louisiana,https://stlandrypg.org/
-Opelousas,LA Micropolitan Statistical Area,https://stlandrypg.org/
 St. Martin Parish,Louisiana,https://www.stmartinparish.net/
 St. Mary Parish,Louisiana,http://www.stmaryparishla.gov/
-Morgan City,LA Micropolitan Statistical Area,http://www.stmaryparishla.gov/
 St. Tammany Parish,Louisiana,http://www.stpgov.org
 Tangipahoa Parish,Louisiana,http://www.tangipahoa.org
-Hammond,LA Metropolitan Statistical Area,http://www.tangipahoa.org
 Tensas Parish,Louisiana,http://louisiana.gov/Government/Parish_Tensas/
 Terrebonne Parish,Louisiana,http://www.tpcg.org
 Vermilion Parish,Louisiana,http://vermilionparishpolicejury.com
 Vernon Parish,Louisiana,http://www.vppjla.com/
-Fort Polk South,LA Micropolitan Statistical Area,http://www.vppjla.com/
 Washington Parish,Louisiana,http://www.washingtonparishalerts.org/
-Bogalusa,LA Micropolitan Statistical Area,http://www.washingtonparishalerts.org/
 Webster Parish,Louisiana,http://www.websterparishla.org/index.html
 West Baton Rouge Parish,Louisiana,http://www.wbrcouncil.org/Default.asp
 West Feliciana Parish,Louisiana,http://wfparish.org/
 Androscoggin County,Maine,http://www.androscoggincountymaine.gov
-Lewiston-Auburn,ME Metropolitan Statistical Area,http://www.androscoggincountymaine.gov
 Aroostook County,Maine,http://www.aroostook.me.us
 Cumberland County,Maine,http://www.cumberlandcounty.org
 Franklin County,Maine,https://franklincountymaine.gov/
 Hancock County,Maine,http://www.co.hancock.me.us
 Kennebec County,Maine,http://www.kennebeccounty.org
-Augusta-Waterville,ME Micropolitan Statistical Area,http://www.kennebeccounty.org
 Knox County,Maine,http://www.knoxcountymaine.gov/
 Lincoln County,Maine,http://www.lincolncountymaine.me
 Oxford County,Maine,http://www.oxfordcounty.org
 Penobscot County,Maine,https://www.penobscot-county.net
-Bangor,ME Metropolitan Statistical Area,https://www.penobscot-county.net
 Piscataquis County,Maine,https://www.piscataquis.us/
 Sagadahoc County,Maine,http://www.sagcounty.com
 Somerset County,Maine,http://somersetcounty-me.org/
@@ -1307,7 +1094,6 @@ Carroll County,Maryland,https://carrollcountymd.gov
 Cecil County,Maryland,http://www.ccgov.org
 Charles County,Maryland,http://www.charlescountymd.gov
 Dorchester County,Maryland,http://www.dorchestercountymd.com
-Cambridge,MD Micropolitan Statistical Area,http://www.dorchestercountymd.com
 Frederick County,Maryland,http://www.FrederickCountyMD.gov/
 Garrett County,Maryland,http://www.garrettcounty.org/
 Harford County,Maryland,http://www.harfordcountymd.gov
@@ -1317,53 +1103,39 @@ Montgomery County,Maryland,https://www.montgomerycountymd.gov/
 Prince George's County,Maryland,http://www.princegeorgescountymd.gov
 Queen Anne's County,Maryland,http://www.qac.org
 St. Mary's County,Maryland,http://www.stmarysmd.com
-California-Lexington Park,MD Metropolitan Statistical Area,http://www.stmarysmd.com
 Somerset County,Maryland,http://www.somersetmd.us
 Talbot County,Maryland,http://www.talbotcountymd.gov
-Easton,MD Micropolitan Statistical Area,http://www.talbotcountymd.gov
 Washington County,Maryland,http://www.washco-md.net/
 Wicomico County,Maryland,http://www.wicomicocounty.org
 Worcester County,Maryland,http://www.co.worcester.md.us
 Barnstable County,Massachusetts,http://www.barnstablecounty.org
-Barnstable Town,MA Metropolitan Statistical Area,http://www.barnstablecounty.org
 Bristol County,Massachusetts,http://www.countyofbristol.net
 Dukes County,Massachusetts,http://www.dukescounty.org
-Vineyard Haven,MA Micropolitan Statistical Area,http://www.dukescounty.org
 Nantucket,Massachusetts,http://www.nantucket-ma.gov/
 Norfolk County,Massachusetts,http://www.norfolkcounty.org
 Plymouth County,Massachusetts,http://www.plymouthcountyma.gov/
 Alcona County,Michigan,https://alconacountymi.com/
 Alger County,Michigan,https://www.algercounty.gov/
 Allegan County,Michigan,http://www.allegancounty.org
-Holland,MI Micropolitan Statistical Area,http://www.allegancounty.org
 Alpena County,Michigan,http://www.alpenacounty.org
-Alpena,MI Micropolitan Statistical Area,http://www.alpenacounty.org
 Bay County,Michigan,http://www.baycounty-mi.gov
-Bay City,MI Metropolitan Statistical Area,http://www.baycounty-mi.gov
 Benzie County,Michigan,http://www.benzieco.net
 Branch County,Michigan,https://www.countyofbranch.com/
-Coldwater,MI Micropolitan Statistical Area,https://www.countyofbranch.com/
 Calhoun County,Michigan,https://www.calhouncountymi.gov/
-Battle Creek,MI Metropolitan Statistical Area,https://www.calhouncountymi.gov/
 Cass County,Michigan,http://www.casscountymi.org
 Charlevoix County,Michigan,http://www.charlevoixcounty.org
 Chippewa County,Michigan,http://www.chippewacountymi.gov
-Sault Ste. Marie,MI Micropolitan Statistical Area,http://www.chippewacountymi.gov
 Clinton County,Michigan,http://www.clinton-county.org
 Crawford County,Michigan,http://www.crawfordco.org
 Dickinson County,Michigan,http://www.dickinsoncountymi.gov
 Emmet County,Michigan,https://www.emmetcounty.org/
 Genesee County,Michigan,https://www.geneseecountymi.gov/
-Flint,MI Metropolitan Statistical Area,https://www.geneseecountymi.gov/
 Gladwin County,Michigan,http://www.gladwinco.com
 Grand Traverse County,Michigan,https://www.gtcountymi.gov/
 Gratiot County,Michigan,https://www.gratiotmi.com/
-Alma,MI Micropolitan Statistical Area,https://www.gratiotmi.com/
 Ingham County,Michigan,http://www.ingham.org
 Isabella County,Michigan,http://www.isabellacounty.org
-Mount Pleasant,MI Micropolitan Statistical Area,http://www.mt-pleasant.org
 Jackson County,Michigan,http://www.co.jackson.mi.us
-Jackson,MI Metropolitan Statistical Area,http://www.co.jackson.mi.us
 Kalamazoo County,Michigan,http://www.kalcounty.com
 Kent County,Michigan,http://www.accesskent.com
 Keweenaw County,Michigan,http://www.keweenawcountyonline.org/
@@ -1371,31 +1143,22 @@ Lake County,Michigan,http://www.lakecounty-michigan.com/
 Lapeer County,Michigan,http://lapeercountyweb.org
 Leelanau County,Michigan,https://www.leelanau.gov
 Lenawee County,Michigan,http://www.lenawee.mi.us
-Adrian,MI Micropolitan Statistical Area,http://www.lenawee.mi.us
 Luce County,Michigan,http://www.lucecountymi.com/
 Mackinac County,Michigan,http://www.mackinaccounty.net
 Macomb County,Michigan,http://macombgov.org
 Manistee County,Michigan,http://www.manisteecountymi.gov
 Marquette County,Michigan,http://www.co.marquette.mi.us
-Marquette,MI Micropolitan Statistical Area,http://www.co.marquette.mi.us
 Mason County,Michigan,http://www.masoncounty.net
-Ludington,MI Micropolitan Statistical Area,http://www.masoncounty.net
 Mecosta County,Michigan,http://www.co.mecosta.mi.us
-Big Rapids,MI Micropolitan Statistical Area,http://www.co.mecosta.mi.us
 Midland County,Michigan,http://www.co.midland.mi.us
-Midland,MI Metropolitan Statistical Area,http://www.co.midland.mi.us
 Missaukee County,Michigan,http://www.missaukee.org
-Cadillac,MI Micropolitan Statistical Area,http://www.cadillac-mi.net/
 Monroe County,Michigan,http://www.co.monroe.mi.us
-Monroe,MI Metropolitan Statistical Area,http://www.co.monroe.mi.us
 Montcalm County,Michigan,http://www.montcalm.org
 Muskegon County,Michigan,http://www.co.muskegon.mi.us
-Muskegon,MI Metropolitan Statistical Area,http://www.co.muskegon.mi.us
 Oakland County,Michigan,http://www.oakgov.com
 Ontonagon County,Michigan,http://ontonagoncounty.org/
 Osceola County,Michigan,http://www.osceola-county.org
 Saginaw County,Michigan,http://www.saginawcounty.com
-Saginaw,MI Metropolitan Statistical Area,http://www.saginaw-mi.com
 St. Clair County,Michigan,http://www.stclaircounty.org
 Tuscola County,Michigan,http://www.tuscolacounty.org
 Van Buren County,Michigan,http://www.vanburencountymi.gov
@@ -1405,12 +1168,10 @@ Aitkin County,Minnesota,http://www.co.aitkin.mn.us
 Anoka County,Minnesota,http://www.co.anoka.mn.us
 Becker County,Minnesota,http://www.co.becker.mn.us
 Beltrami County,Minnesota,http://www.co.beltrami.mn.us
-Bemidji,MN Micropolitan Statistical Area,http://www.co.beltrami.mn.us
 Benton County,Minnesota,http://www.co.benton.mn.us
 Big Stone County,Minnesota,http://www.bigstonecounty.org
 Blue Earth County,Minnesota,http://www.co.blue-earth.mn.us
 Brown County,Minnesota,http://www.co.brown.mn.us
-New Ulm,MN Micropolitan Statistical Area,http://www.co.brown.mn.us
 Carlton County,Minnesota,http://www.co.carlton.mn.us
 Carver County,Minnesota,https://www.co.carver.mn.us
 Cass County,Minnesota,http://www.co.cass.mn.us
@@ -1424,24 +1185,19 @@ Crow Wing County,Minnesota,https://crowwing.us
 Dakota County,Minnesota,http://www.dakotacounty.us
 Dodge County,Minnesota,http://www.co.dodge.mn.us
 Douglas County,Minnesota,http://www.co.douglas.mn.us/
-Alexandria,MN Micropolitan Statistical Area,http://www.co.douglas.mn.us/
 Faribault County,Minnesota,http://www.co.faribault.mn.us
 Fillmore County,Minnesota,http://www.co.fillmore.mn.us
 Freeborn County,Minnesota,http://www.co.freeborn.mn.us
-Albert Lea,MN Micropolitan Statistical Area,http://www.co.freeborn.mn.us
 Goodhue County,Minnesota,http://www.co.goodhue.mn.us/
-Red Wing,MN Micropolitan Statistical Area,http://www.co.goodhue.mn.us/
 Grant County,Minnesota,http://www.co.grant.mn.us
 Hennepin County,Minnesota,http://www.hennepin.us/
 Houston County,Minnesota,http://co.houston.mn.us
-La Crosse-Onalaska,WI-MN Metropolitan Statistical Area,https://engagegreaterlacrosse.org/
 Hubbard County,Minnesota,http://www.co.hubbard.mn.us
 Isanti County,Minnesota,http://www.co.isanti.mn.us
 Itasca County,Minnesota,http://www.co.itasca.mn.us
 Jackson County,Minnesota,http://www.co.jackson.mn.us
 Kanabec County,Minnesota,http://www.kanabeccounty.org
 Kandiyohi County,Minnesota,http://www.co.kandiyohi.mn.us
-Willmar,MN Micropolitan Statistical Area,http://www.co.kandiyohi.mn.us
 Kittson County,Minnesota,http://www.co.kittson.mn.us
 Koochiching County,Minnesota,http://www.co.koochiching.mn.us
 Lac qui Parle County,Minnesota,http://lqpco.com/
@@ -1450,9 +1206,7 @@ Lake of the Woods County,Minnesota,https://www.co.lake-of-the-woods.mn.us/
 Le Sueur County,Minnesota,http://www.co.le-sueur.mn.us
 Lincoln County,Minnesota,http://www.co.lincoln.mn.us
 Lyon County,Minnesota,http://www.lyonco.org/
-Marshall,MN Micropolitan Statistical Area,http://www.lyonco.org/
 McLeod County,Minnesota,http://www.co.mcleod.mn.us
-Hutchinson,MN Micropolitan Statistical Area,http://www.co.mcleod.mn.us
 Mahnomen County,Minnesota,http://www.co.mahnomen.mn.us/
 Marshall County,Minnesota,http://www.co.marshall.mn.us
 Martin County,Minnesota,http://www.co.martin.mn.us
@@ -1460,27 +1214,22 @@ Meeker County,Minnesota,http://www.co.meeker.mn.us
 Mille Lacs County,Minnesota,http://www.co.mille-lacs.mn.us
 Morrison County,Minnesota,http://www.co.morrison.mn.us
 Mower County,Minnesota,http://www.co.mower.mn.us
-Austin,MN Micropolitan Statistical Area,http://www.co.mower.mn.us
 Murray County,Minnesota,http://www.murray-countymn.com
 Nicollet County,Minnesota,http://www.co.nicollet.mn.us
 Nobles County,Minnesota,http://www.co.nobles.mn.us
-Worthington,MN Micropolitan Statistical Area,http://www.co.nobles.mn.us
 Norman County,Minnesota,http://www.co.norman.mn.us
 Olmsted County,Minnesota,https://www.olmstedcounty.gov
 Otter Tail County,Minnesota,https://ottertailcountymn.us/
-Fergus Falls,MN Micropolitan Statistical Area,https://ottertailcountymn.us/
 Pennington County,Minnesota,http://co.pennington.mn.us
 Pine County,Minnesota,http://www.co.pine.mn.us
 Pipestone County,Minnesota,http://www.pipestone-county.com/
 Polk County,Minnesota,http://www.co.polk.mn.us/
-Grand Forks,ND-MN Metropolitan Statistical Area,https://www.visitgrandforks.com/
 Pope County,Minnesota,http://www.co.pope.mn.us/
 Ramsey County,Minnesota,http://www.ramseycounty.us
 Red Lake County,Minnesota,https://www.co.red-lake.mn.us/
 Redwood County,Minnesota,http://www.co.redwood.mn.us
 Renville County,Minnesota,http://www.renvillecountymn.com
 Rice County,Minnesota,http://www.co.rice.mn.us
-Faribault-Northfield,MN Micropolitan Statistical Area,http://www.co.rice.mn.us
 Rock County,Minnesota,http://www.co.rock.mn.us
 Roseau County,Minnesota,http://www.co.roseau.mn.us
 St. Louis County,Minnesota,http://www.stlouiscountymn.gov
@@ -1489,7 +1238,6 @@ Sherburne County,Minnesota,http://www.co.sherburne.mn.us
 Sibley County,Minnesota,http://www.co.sibley.mn.us
 Stearns County,Minnesota,http://www.co.stearns.mn.us
 Steele County,Minnesota,http://www.co.steele.mn.us
-Owatonna,MN Micropolitan Statistical Area,http://www.co.steele.mn.us
 Stevens County,Minnesota,http://www.co.stevens.mn.us
 Swift County,Minnesota,http://www.swiftcounty.com
 Todd County,Minnesota,http://www.co.todd.mn.us
@@ -1501,17 +1249,14 @@ Washington County,Minnesota,https://www.co.washington.mn.us
 Watonwan County,Minnesota,http://www.co.watonwan.mn.us
 Wilkin County,Minnesota,http://www.co.wilkin.mn.us
 Winona County,Minnesota,http://www.co.winona.mn.us
-Winona,MN Micropolitan Statistical Area,http://www.co.winona.mn.us
 Wright County,Minnesota,http://www.co.wright.mn.us
 Yellow Medicine County,Minnesota,http://www.co.ym.mn.gov
 Adams County,Mississippi,https://www.adamscountyms.net/
 Alcorn County,Mississippi,http://www.alcorncounty.org
-Corinth,MS Micropolitan Statistical Area,http://www.alcorncounty.org
 Amite County,Mississippi,http://www.amitecounty.ms
 Attala County,Mississippi,http://www.attalacounty.net/
 Benton County,Mississippi,http://bentoncountyms.gov/
 Bolivar County,Mississippi,http://www.co.bolivar.ms.us
-Cleveland,MS Micropolitan Statistical Area,http://www.cityofclevelandms.com/
 Calhoun County,Mississippi,http://calhouncoms.com/
 Carroll County,Mississippi,https://carrollcountyms.org
 Chickasaw County,Mississippi,http://www.chickasawcoms.com
@@ -1520,7 +1265,6 @@ Claiborne County,Mississippi,https://www.ccmsgov.us
 Clarke County,Mississippi,http://www.visitclarkecounty.com/
 Clay County,Mississippi,http://www.claycountyms.com/index.php/
 Coahoma County,Mississippi,http://www.coahomacounty.net/
-Clarksdale,MS Micropolitan Statistical Area,http://www.coahomacounty.net/
 Copiah County,Mississippi,http://www.copiahcounty.org
 Covington County,Mississippi,http://www.covingtoncountyms.gov
 DeSoto County,Mississippi,http://www.desotocountyms.gov
@@ -1541,7 +1285,6 @@ Jefferson Davis County,Mississippi,http://www.jeffersondaviscountyms.com
 Jones County,Mississippi,https://jonescounty.com/
 Kemper County,Mississippi,http://www.kempercounty.ms
 Lafayette County,Mississippi,http://lafayettems.com/
-Oxford,MS Micropolitan Statistical Area,http://lafayettems.com/
 Lamar County,Mississippi,http://www.lamarcountyms.gov/11/index.php
 Lauderdale County,Mississippi,http://www.lauderdalecounty.org
 Lawrence County,Mississippi,http://lawrencecountyms.com/
@@ -1549,9 +1292,7 @@ Leake County,Mississippi,http://www.leakecountyms.org/
 Lee County,Mississippi,http://leecoms.com
 Leflore County,Mississippi,http://www.leflorecounty.net/
 Lincoln County,Mississippi,http://www.golincolnms.com
-Brookhaven,MS Micropolitan Statistical Area,http://www.golincolnms.com
 Lowndes County,Mississippi,http://lowndescountyms.com/
-Columbus,MS Micropolitan Statistical Area,http://lowndescountyms.com/
 Madison County,Mississippi,http://www.madison-co.com
 Marion County,Mississippi,http://www.marioncountyms.com
 Marshall County,Mississippi,http://www.marshall-county.com
@@ -1560,10 +1301,8 @@ Montgomery County,Mississippi,http://www.montgomerycountyms.com
 Neshoba County,Mississippi,http://www.neshobacounty.net
 Newton County,Mississippi,http://www.newtoncountyms.net/
 Oktibbeha County,Mississippi,http://www.oktibbehacountyms.org
-Starkville,MS Micropolitan Statistical Area,http://www.oktibbehacountyms.org
 Panola County,Mississippi,http://www.panolacoms.com
 Pearl River County,Mississippi,http://www.pearlrivercounty.net
-Picayune,MS Micropolitan Statistical Area,http://www.pearlrivercounty.net
 Pike County,Mississippi,http://www.co.pike.ms.us
 Pontotoc County,Mississippi,http://pontotoccoms.com/
 Prentiss County,Mississippi,http://www.prentisscounty.org
@@ -1574,7 +1313,6 @@ Sharkey County,Mississippi,http://www.sharkeycounty.net
 Smith County,Mississippi,https://www.smithcountyms.gov/
 Stone County,Mississippi,http://www.stonecountyms.gov
 Sunflower County,Mississippi,http://www.sunflowercounty.ms.gov/Pages/Default.aspx
-Indianola,MS Micropolitan Statistical Area,http://www.sunflowercounty.ms.gov/Pages/Default.aspx
 Tate County,Mississippi,https://www.tatecountygov.com/
 Tippah County,Mississippi,http://www.co.tippah.ms.us
 Tishomingo County,Mississippi,http://co.tishomingo.ms.us
@@ -1582,9 +1320,7 @@ Tunica County,Mississippi,http://www.tunicacountymississippi.com/
 Union County,Mississippi,http://unioncoms.com/
 Walthall County,Mississippi,http://www.co.walthall.ms.us/
 Warren County,Mississippi,http://www.co.warren.ms.us
-Vicksburg,MS Micropolitan Statistical Area,http://www.vicksburg.org/
 Washington County,Mississippi,http://www.washingtoncounty.ms
-Greenville,MS Micropolitan Statistical Area,http://www.washingtoncounty.ms
 Wayne County,Mississippi,http://www.waynecounty.ms
 Wilkinson County,Mississippi,http://www.wilkinson.co.ms.gov
 Winston County,Mississippi,http://www.winstonms.com/
@@ -1594,14 +1330,12 @@ Adair County,Missouri,http://adaircountymissouri.com
 Andrew County,Missouri,http://www.andrewcounty.org
 Atchison County,Missouri,http://www.atchisoncounty.org
 Audrain County,Missouri,http://www.audraincounty.org
-Mexico,MO Micropolitan Statistical Area,http://www.audraincounty.org
 Barton County,Missouri,http://www.bartoncounty.com/
 Bates County,Missouri,http://www.batescounty.net
 Benton County,Missouri,http://www.bentoncomo.com/
 Boone County,Missouri,http://www.showmeboone.com
 Buchanan County,Missouri,http://www.co.buchanan.mo.us/
 Butler County,Missouri,https://butlercountymo.com/
-Poplar Bluff,MO Micropolitan Statistical Area,https://butlercountymo.com/
 Caldwell County,Missouri,http://www.caldwellco.missouri.org
 Callaway County,Missouri,https://callawaycounty.org
 Camden County,Missouri,http://www.camdenmo.org
@@ -1619,7 +1353,6 @@ Daviess County,Missouri,https://www.daviesscountymo.gov
 DeKalb County,Missouri,https://www.dekalbcountymo.com/
 Dent County,Missouri,https://www.salemmo.com/dent/
 Dunklin County,Missouri,https://dunklincounty.org
-Kennett,MO Micropolitan Statistical Area,https://dunklincounty.org
 Franklin County,Missouri,http://www.franklinmo.org
 Gasconade County,Missouri,https://gasconadecounty.org/
 Gentry County,Missouri,http://gentrycounty.net/
@@ -1629,15 +1362,12 @@ Henry County,Missouri,http://www.henrycomo.com/
 Hickory County,Missouri,http://hickorycomo.com/
 Holt County,Missouri,http://holtcounty.org/
 Howell County,Missouri,http://www.howellcounty.net
-West Plains,MO Micropolitan Statistical Area,http://www.howellcounty.net
 Jackson County,Missouri,http://www.jacksongov.org
 Jasper County,Missouri,http://www.jaspercounty.org
 Jefferson County,Missouri,http://www.jeffcomo.org
 Johnson County,Missouri,http://www.jococourthouse.com
-Warrensburg,MO Micropolitan Statistical Area,http://www.jococourthouse.com
 Knox County,Missouri,http://www.knoxcountymo.org
 Laclede County,Missouri,http://lacledecountymissouri.org/
-Lebanon,MO Micropolitan Statistical Area,http://lacledecountymissouri.org/
 Lafayette County,Missouri,http://www.lafayettecountymo.com
 Lawrence County,Missouri,https://www.lawrencecountymo.org/
 Lewis County,Missouri,http://lewiscountymo.org
@@ -1655,36 +1385,28 @@ Montgomery County,Missouri,http://mcmo.us/
 Morgan County,Missouri,https://www.morgancountymo.gov
 Newton County,Missouri,http://www.newtoncountymo.com/
 Nodaway County,Missouri,http://www.nodawaycountymo.com/
-Maryville,MO Micropolitan Statistical Area,http://www.nodawaycountymo.com/
 Osage County,Missouri,http://osagecountygov.com
 Ozark County,Missouri,http://www.mogenweb.org/ozark/
 Pemiscot County,Missouri,http://www.pemiscotcounty.org/
 Perry County,Missouri,http://perrycountymo.us/
 Pettis County,Missouri,http://www.pettiscomo.com
-Sedalia,MO Micropolitan Statistical Area,http://www.pettiscomo.com
 Phelps County,Missouri,http://www.phelpscounty.org
-Rolla,MO Micropolitan Statistical Area,http://www.phelpscounty.org
 Pike County,Missouri,http://www.pikecountymo.net/
 Platte County,Missouri,http://www.co.platte.mo.us
 Pulaski County,Missouri,http://www.pulaskicountymo.org/home.html
-Fort Leonard Wood,MO Micropolitan Statistical Area,http://www.pulaskicountymo.org/home.html
 Putnam County,Missouri,http://nemr.net/~putco/
 Ralls County,Missouri,http://www.rallscounty.org/
 Randolph County,Missouri,http://www.randolphcounty-mo.com/
-Moberly,MO Micropolitan Statistical Area,http://www.randolphcounty-mo.com/
 Ray County,Missouri,http://www.raycountymo.com/
 Ripley County,Missouri,http://www.ripleycountymissouri.org/
 St. Charles County,Missouri,http://www.sccmo.org
 St. Clair County,Missouri,http://www.stclaircomo.com
 Ste. Genevieve County,Missouri,http://stegencounty.org
 St. Francois County,Missouri,http://www.sfcgov.org/
-Farmington,MO Micropolitan Statistical Area,http://www.sfcgov.org/
 St. Louis County,Missouri,http://stlouiscountymo.gov/
 Saline County,Missouri,http://www.salinecountymo.org/
-Marshall,MO Micropolitan Statistical Area,http://www.salinecountymo.org/
 Scotland County,Missouri,http://www.scotlandcountymo.org/
 Scott County,Missouri,http://www.scottcountymo.com/
-Sikeston,MO Micropolitan Statistical Area,http://www.scottcountymo.com/
 Shannon County,Missouri,http://www.shannon-county.com/
 Stone County,Missouri,http://www.stoneco-mo.us/
 Taney County,Missouri,http://www.taneycounty.org/
@@ -1702,7 +1424,6 @@ Broadwater County,Montana,http://www.co.broadwater.mt.us
 Carbon County,Montana,http://co.carbon.mt.us/
 Carter County,Montana,http://www.cartercountymt.info
 Cascade County,Montana,https://www.cascadecountymt.gov/
-Great Falls,MT Metropolitan Statistical Area,https://www.cascadecountymt.gov/
 Chouteau County,Montana,http://www.co.chouteau.mt.us
 Custer County,Montana,https://custercountymt.com/
 Dawson County,Montana,http://www.dawsoncountymontana.org
@@ -1710,9 +1431,7 @@ Deer Lodge County,Montana,http://www.anacondadeerlodge.mt.gov/
 Fallon County,Montana,http://www.falloncounty.net
 Fergus County,Montana,http://www.co.fergus.mt.us
 Flathead County,Montana,http://flathead.mt.gov
-Kalispell,MT Micropolitan Statistical Area,http://flathead.mt.gov
 Gallatin County,Montana,http://www.gallatin.mt.gov
-Bozeman,MT Micropolitan Statistical Area,http://www.gallatin.mt.gov
 Garfield County,Montana,http://www.garfieldco.us/index.html
 Glacier County,Montana,http://www.glaciercountymt.org
 Granite County,Montana,http://www.co.granite.mt.us
@@ -1742,7 +1461,6 @@ Rosebud County,Montana,http://rosebudcountymt.gov
 Sanders County,Montana,http://www.co.sanders.mt.us
 Sheridan County,Montana,http://www.co.sheridan.mt.us
 Silver Bow County,Montana,http://co.silverbow.mt.us
-Butte-Silver Bow,MT Micropolitan Statistical Area,http://co.silverbow.mt.us
 Stillwater County,Montana,http://www.stillwater.mt.gov
 Sweet Grass County,Montana,http://sweetgrasscountygov.com
 Teton County,Montana,http://www.tetoncomt.org
@@ -1751,18 +1469,15 @@ Valley County,Montana,http://valleycountymt.net
 Wheatland County,Montana,http://www.harlowtonchamber.com/
 Yellowstone County,Montana,http://www.co.yellowstone.mt.gov
 Adams County,Nebraska,http://www.adamscounty.org
-Hastings,NE Micropolitan Statistical Area,http://www.adamscounty.org
 Antelope County,Nebraska,http://www.co.antelope.ne.us
 Arthur County,Nebraska,https://arthurcounty.nebraska.gov/
 Banner County,Nebraska,https://bannercountyne.gov/
-Scottsbluff,NE Micropolitan Statistical Area,http://www.scottsbluff.org/
 Blaine County,Nebraska,http://blainecounty.nebraska.gov
 Boone County,Nebraska,http://www.co.boone.ne.us/
 Box Butte County,Nebraska,http://boxbuttecounty.us/
 Boyd County,Nebraska,http://www.boydcounty.ne.gov/
 Brown County,Nebraska,https://www.browncounty.ne.gov/
 Buffalo County,Nebraska,http://www.buffalogov.org
-Kearney,NE Micropolitan Statistical Area,http://www.cityofkearney.org
 Burt County,Nebraska,http://www.burtcounty.ne.gov
 Butler County,Nebraska,https://co.butler.ne.us/
 Cass County,Nebraska,http://www.cassne.org
@@ -1777,11 +1492,9 @@ Custer County,Nebraska,http://www.co.custer.ne.us/
 Dakota County,Nebraska,http://www.dakotacountyne.org
 Dawes County,Nebraska,http://www.dawes-county.com
 Dawson County,Nebraska,http://www.dawsoncountyne.org/
-Lexington,NE Micropolitan Statistical Area,http://www.cityoflex.com/
 Deuel County,Nebraska,http://www.co.deuel.ne.us
 Dixon County,Nebraska,http://www.co.dixon.ne.us
 Dodge County,Nebraska,http://www.dodgecounty.ne.gov
-Fremont,NE Micropolitan Statistical Area,http://www.dodgecounty.ne.gov
 Douglas County,Nebraska,https://www.douglascounty-ne.gov/
 Dundy County,Nebraska,http://www.co.dundy.ne.us
 Fillmore County,Nebraska,http://www.fillmorecounty.org/
@@ -1789,13 +1502,11 @@ Franklin County,Nebraska,http://www.co.franklin.ne.us/
 Frontier County,Nebraska,http://www.co.frontier.ne.us/
 Furnas County,Nebraska,http://www.furnascounty.ne.gov/
 Gage County,Nebraska,http://www.gagecountynebraska.us/
-Beatrice,NE Micropolitan Statistical Area,http://www.gagecountynebraska.us/
 Garden County,Nebraska,https://gardencounty.ne.gov/
 Garfield County,Nebraska,http://www.garfieldcounty.ne.gov
 Gosper County,Nebraska,http://www.co.gosper.ne.us
 Greeley County,Nebraska,http://www.greeleycounty.ne.gov/
 Hall County,Nebraska,http://www.hallcountyne.gov
-Grand Island,NE Metropolitan Statistical Area,http://www.grand-island.com/
 Hamilton County,Nebraska,http://www.co.hamilton.ne.us
 Harlan County,Nebraska,http://www.harlancounty.ne.gov/
 Hayes County,Nebraska,http://www.hayescounty.ne.gov/
@@ -1812,12 +1523,10 @@ Kimball County,Nebraska,http://www.co.kimball.ne.us
 Knox County,Nebraska,http://www.co.knox.ne.us
 Lancaster County,Nebraska,http://lancaster.ne.gov
 Lincoln County,Nebraska,http://www.co.lincoln.ne.us
-North Platte,NE Micropolitan Statistical Area,http://www.ci.north-platte.ne.us
 Logan County,Nebraska,http://logancounty.ne.gov/
 Loup County,Nebraska,http://www.co.loup.ne.us/
 McPherson County,Nebraska,http://www.mcphersoncounty.ne.gov/
 Madison County,Nebraska,http://www.madisoncountyne.com/
-Norfolk,NE Micropolitan Statistical Area,http://www.ci.norfolk.ne.us/
 Merrick County,Nebraska,http://www.merrickcounty.ne.gov/
 Morrill County,Nebraska,http://www.morrillcountyne.gov/
 Nance County,Nebraska,http://www.co.nance.ne.us
@@ -1828,7 +1537,6 @@ Perkins County,Nebraska,http://www.co.perkins.ne.us/
 Phelps County,Nebraska,http://www.phelpsgov.org/
 Pierce County,Nebraska,http://www.co.pierce.ne.us
 Platte County,Nebraska,http://www.plattecounty.net/
-Columbus,NE Micropolitan Statistical Area,http://www.plattecounty.net/
 Polk County,Nebraska,http://www.polkcounty.ne.gov/
 Red Willow County,Nebraska,http://www.co.red-willow.ne.us/
 Richardson County,Nebraska,http://www.co.richardson.ne.us
@@ -1846,57 +1554,43 @@ Webster County,Nebraska,http://www.co.webster.ne.us
 Wheeler County,Nebraska,http://www.wheelercounty.ne.gov/
 York County,Nebraska,http://www.yorkcounty.ne.gov/
 Churchill County,Nevada,http://churchillcounty.org/
-Fallon,NV Micropolitan Statistical Area,http://churchillcounty.org/
 Clark County,Nevada,https://www.clarkcountynv.gov/
 Douglas County,Nevada,https://www.douglascountynv.gov/
-Gardnerville Ranchos,NV Micropolitan Statistical Area,https://www.douglascountynv.gov/
 Elko County,Nevada,http://elkocountynv.net/
 Esmeralda County,Nevada,https://www.accessesmeralda.com/
 Eureka County,Nevada,http://co.eureka.nv.us/
 Humboldt County,Nevada,http://hcnv.us/
-Winnemucca,NV Micropolitan Statistical Area,http://hcnv.us/
 Lander County,Nevada,http://landercountynv.org/
 Lincoln County,Nevada,http://lincolncountynv.org/
 Lyon County,Nevada,http://lyon-county.org/
-Fernley,NV Micropolitan Statistical Area,http://lyon-county.org/
 Mineral County,Nevada,http://mineralcountynv.us/
 Nye County,Nevada,http://nyecounty.net/
-Pahrump,NV Micropolitan Statistical Area,http://nyecounty.net/
 Pershing County,Nevada,http://pershingcounty.net/
 Storey County,Nevada,http://storeycounty.org/
 Washoe County,Nevada,https://washoecounty.us/
 White Pine County,Nevada,http://whitepinecounty.net/
 Carson City,Nevada,http://www.carson.org/home
-Carson City,NV Metropolitan Statistical Area,http://www.carson.org/home
 Belknap County,New Hampshire,http://www.belknapcounty.org
-Laconia,NH Micropolitan Statistical Area,http://www.belknapcounty.org
 Carroll County,New Hampshire,http://www.carrollcountynh.net
 Cheshire County,New Hampshire,http://co.cheshire.nh.us
-Keene,NH Micropolitan Statistical Area,http://co.cheshire.nh.us
 Coos County,New Hampshire,http://www.cooscountynh.us
 Grafton County,New Hampshire,http://www.co.grafton.nh.us
 Hillsborough County,New Hampshire,http://hcnh.org/
-Manchester-Nashua,NH Metropolitan Statistical Area,http://hcnh.org/
 Merrimack County,New Hampshire,http://www.merrimackcounty.net/
-Concord,NH Micropolitan Statistical Area,http://www.merrimackcounty.net/
 Rockingham County,New Hampshire,http://www.rockinghamcountynh.org
 Strafford County,New Hampshire,http://www.co.strafford.nh.us
 Sullivan County,New Hampshire,http://www.sullivancountynh.gov
 Atlantic County,New Jersey,https://www.atlantic-county.org
-Atlantic City-Hammonton,NJ Metropolitan Statistical Area,https://www.atlantic-county.org
 Bergen County,New Jersey,http://www.co.bergen.nj.us
 Burlington County,New Jersey,http://www.co.burlington.nj.us
 Camden County,New Jersey,http://www.camdencounty.com
 Cape May County,New Jersey,http://capemaycountynj.gov/
-Ocean City,NJ Metropolitan Statistical Area,http://capemaycountynj.gov/
 Cumberland County,New Jersey,http://co.cumberland.nj.us
-Vineland-Bridgeton,NJ Metropolitan Statistical Area,http://co.cumberland.nj.us
 Essex County,New Jersey,http://www.essex-countynj.org
 Gloucester County,New Jersey,http://www.co.gloucester.nj.us
 Hudson County,New Jersey,http://www.hudsoncountynj.org
 Hunterdon County,New Jersey,https://www.co.hunterdon.nj.us
 Mercer County,New Jersey,http://www.mercercounty.org
-Trenton-Princeton,NJ Metropolitan Statistical Area,http://www.mercercounty.org
 Middlesex County,New Jersey,http://www.co.middlesex.nj.us
 Monmouth County,New Jersey,https://www.co.monmouth.nj.us/
 Morris County,New Jersey,http://www.co.morris.nj.us
@@ -1910,92 +1604,62 @@ Warren County,New Jersey,https://www.warrencountynj.gov/
 Bernalillo County,New Mexico,http://www.bernco.gov
 Catron County,New Mexico,http://www.catroncounty.us
 Chaves County,New Mexico,http://co.chaves.nm.us
-Roswell,NM Micropolitan Statistical Area,http://co.chaves.nm.us
 Cibola County,New Mexico,http://www.co.cibola.nm.us/
-Grants,NM Micropolitan Statistical Area,http://www.co.cibola.nm.us/
 Colfax County,New Mexico,http://www.co.colfax.nm.us/
 Curry County,New Mexico,http://www.currycounty.org
-Clovis,NM Micropolitan Statistical Area,http://www.cityofclovis.org
 De Baca County,New Mexico,http://debaca.nmgenweb.us/
 Doña Ana County,New Mexico,http://www.donaanacounty.org
-Las Cruces,NM Metropolitan Statistical Area,http://www.donaanacounty.org
 Eddy County,New Mexico,http://www.co.eddy.nm.us/
-Carlsbad-Artesia,NM Micropolitan Statistical Area,http://www.co.eddy.nm.us/
 Grant County,New Mexico,http://www.grantcountynm.gov
-Silver City,NM Micropolitan Statistical Area,http://www.grantcountynm.gov
 Harding County,New Mexico,http://www.hardingcounty.org
 Hidalgo County,New Mexico,http://www.hidalgocounty.org
 Lea County,New Mexico,http://www.leacounty.net
-Hobbs,NM Micropolitan Statistical Area,http://www.leacounty.net
 Lincoln County,New Mexico,http://www.lincolncountynm.gov/
 Los Alamos County,New Mexico,http://www.losalamosnm.us
-Los Alamos,NM Micropolitan Statistical Area,http://www.losalamosnm.us
 Luna County,New Mexico,http://lunacountynm.us
-Deming,NM Micropolitan Statistical Area,http://lunacountynm.us
 McKinley County,New Mexico,http://www.co.mckinley.nm.us
-Gallup,NM Micropolitan Statistical Area,http://www.co.mckinley.nm.us
 Mora County,New Mexico,http://CountyOfMora.com
 Otero County,New Mexico,http://co.otero.nm.us
-Alamogordo,NM Micropolitan Statistical Area,http://co.otero.nm.us
 Quay County,New Mexico,http://quaycounty-nm.gov
 Rio Arriba County,New Mexico,http://www.rio-arriba.org
-Española,NM Micropolitan Statistical Area,http://www.rio-arriba.org
 Roosevelt County,New Mexico,http://www.rooseveltcounty.com
-Portales,NM Micropolitan Statistical Area,http://www.rooseveltcounty.com
 Sandoval County,New Mexico,http://www.sandovalcountyNM.gov
 San Juan County,New Mexico,http://www.sjcounty.net
-Farmington,NM Metropolitan Statistical Area,http://www.sjcounty.net
 San Miguel County,New Mexico,http://co.sanmiguel.nm.us/
-Las Vegas,NM Micropolitan Statistical Area,http://co.sanmiguel.nm.us/
 Santa Fe County,New Mexico,http://www.santafecountynm.gov
-Santa Fe,NM Metropolitan Statistical Area,http://www.santafecountynm.gov
 Sierra County,New Mexico,http://www.sierracountynm.gov/
 Socorro County,New Mexico,http://www.socorrocounty.net
 Taos County,New Mexico,http://www.taoscounty.org
-Taos,NM Micropolitan Statistical Area,http://www.taoscounty.org
 Torrance County,New Mexico,http://www.torrancecountynm.org
 Union County,New Mexico,https://unionnm.us/
 Valencia County,New Mexico,http://www.co.valencia.nm.us
 Albany County,New York,http://www.albanycounty.com
-Albany-Schenectady-Troy,NY Metropolitan Statistical Area,http://www.cdrpc.org/
 Allegany County,New York,https://www.alleganyco.gov/
 Broome County,New York,http://www.gobroomecounty.com
 Cattaraugus County,New York,https://www.cattco.org/
-Olean,NY Micropolitan Statistical Area,https://www.cattco.org/
 Cayuga County,New York,http://www.cayugacounty.us
-Auburn,NY Micropolitan Statistical Area,http://www.cayugacounty.us
 Chautauqua County,New York,http://chqgov.com
-Jamestown-Dunkirk-Fredonia,NY Micropolitan Statistical Area,http://chqgov.com
 Chemung County,New York,https://www.chemungcountyny.gov/
-Elmira,NY Metropolitan Statistical Area,https://www.chemungcountyny.gov/
 Chenango County,New York,http://www.co.chenango.ny.us
 Clinton County,New York,http://www.clintoncountygov.com
-Plattsburgh,NY Micropolitan Statistical Area,http://www.clintoncountygov.com
 Columbia County,New York,http://www.columbiacountyny.com/
-Hudson,NY Micropolitan Statistical Area,http://www.columbiacountyny.com/
 Cortland County,New York,http://www.cortland-co.org
-Cortland,NY Micropolitan Statistical Area,http://www.cortland-co.org
 Delaware County,New York,http://delcony.us
 Dutchess County,New York,http://www.co.dutchess.ny.us
 Erie County,New York,http://www.erie.gov
 Essex County,New York,http://essexcountyny.gov
 Franklin County,New York,https://www.franklincountyny.gov/
-Malone,NY Micropolitan Statistical Area,https://www.franklincountyny.gov/
 Fulton County,New York,http://www.fultoncountyny.gov/
-Gloversville,NY Micropolitan Statistical Area,http://www.fultoncountyny.gov/
 Genesee County,New York,http://www.co.genesee.ny.us
-Batavia,NY Micropolitan Statistical Area,http://www.co.genesee.ny.us
 Greene County,New York,http://www.greenegovernment.com
 Hamilton County,New York,http://www.hamiltoncounty.com
 Herkimer County,New York,http://www.herkimercounty.org
 Jefferson County,New York,http://www.co.jefferson.ny.us
-Watertown-Fort Drum,NY Metropolitan Statistical Area,http://www.co.jefferson.ny.us
 Lewis County,New York,http://www.lewiscounty.org
 Livingston County,New York,https://www.livingstoncounty.us/
 Madison County,New York,http://www.madisoncounty.ny.gov
 Monroe County,New York,http://www.monroecounty.gov
 Montgomery County,New York,http://www.co.montgomery.ny.us
-Amsterdam,NY Micropolitan Statistical Area,http://www.co.montgomery.ny.us
 Nassau County,New York,http://www.nassaucountyny.gov
 New York County,New York,https://manhattanbp.nyc.gov/
 Niagara County,New York,http://www.niagaracounty.com
@@ -2006,27 +1670,21 @@ Orange County,New York,http://www.orangecountygov.com
 Orleans County,New York,https://orleanscountyny.com/
 Oswego County,New York,http://www.oswegocounty.com
 Otsego County,New York,http://www.otsegocounty.com
-Oneonta,NY Micropolitan Statistical Area,http://www.otsegocounty.com
 Putnam County,New York,http://www.putnamcountyny.com
 Rensselaer County,New York,http://www.rensco.com
 Rockland County,New York,http://www.rocklandgov.com
 St. Lawrence County,New York,http://www.stlawco.org
-Ogdensburg-Massena,NY Micropolitan Statistical Area,http://www.stlawco.org
 Saratoga County,New York,http://www.saratogacountyny.gov
 Schenectady County,New York,http://www.schenectadycounty.com
 Schoharie County,New York,http://www.schohariecounty-ny.gov
 Schuyler County,New York,https://www.schuylercounty.us/
 Seneca County,New York,http://www.co.seneca.ny.us
-Seneca Falls,NY Micropolitan Statistical Area,http://www.co.seneca.ny.us
 Steuben County,New York,https://www.steubencountyny.gov/
-Corning,NY Micropolitan Statistical Area,https://www.steubencountyny.gov/
 Suffolk County,New York,http://www.suffolkcountyny.gov
 Sullivan County,New York,https://sullivanny.us/
 Tioga County,New York,http://www.tiogacountyny.com
 Tompkins County,New York,http://tompkinscountyny.gov
-Ithaca,NY Metropolitan Statistical Area,http://www.cityofithaca.org
 Ulster County,New York,https://ulstercountyny.gov/
-Kingston,NY Metropolitan Statistical Area,https://ulstercountyny.gov/
 Warren County,New York,http://warrencountyny.gov
 Washington County,New York,http://www.washingtoncountyny.gov/
 Wayne County,New York,https://web.co.wayne.ny.us
@@ -2034,14 +1692,12 @@ Westchester County,New York,http://westchestergov.com
 Wyoming County,New York,https://www.wyomingco.net/
 Yates County,New York,http://www.yatescounty.org
 Alamance County,North Carolina,http://www.alamance-nc.com
-Burlington,NC Metropolitan Statistical Area,http://www.alamance-nc.com
 Alexander County,North Carolina,http://alexandercountync.gov
 Alleghany County,North Carolina,http://www.alleghanycounty-nc.gov
 Anson County,North Carolina,http://www.co.anson.nc.us
 Ashe County,North Carolina,http://www.ashecountygov.com
 Avery County,North Carolina,http://www.averycountync.gov
 Beaufort County,North Carolina,http://www.co.beaufort.nc.us
-Washington,NC Micropolitan Statistical Area,http://www.co.beaufort.nc.us
 Bertie County,North Carolina,http://www.co.bertie.nc.us
 Bladen County,North Carolina,http://bladennc.govoffice3.com
 Brunswick County,North Carolina,http://www.brunswickcountync.gov
@@ -2051,7 +1707,6 @@ Cabarrus County,North Carolina,http://www.cabarruscounty.us
 Caldwell County,North Carolina,http://www.caldwellcountync.org
 Camden County,North Carolina,http://www.camdencountync.gov
 Carteret County,North Carolina,http://www.carteretcountync.gov
-Morehead City,NC Micropolitan Statistical Area,http://www.carteretcountync.gov
 Caswell County,North Carolina,http://www.caswellcountync.gov
 Catawba County,North Carolina,http://www.catawbacountync.gov
 Chatham County,North Carolina,http://www.chathamnc.org
@@ -2059,15 +1714,12 @@ Cherokee County,North Carolina,http://www.cherokeecounty-nc.gov
 Chowan County,North Carolina,http://www.chowancounty-nc.gov
 Clay County,North Carolina,http://www.clayconc.com
 Cleveland County,North Carolina,http://www.clevelandcounty.com
-Shelby,NC Micropolitan Statistical Area,http://www.clevelandcounty.com
 Columbus County,North Carolina,http://www.columbusco.org
 Craven County,North Carolina,http://www.cravencounty.com
-New Bern,NC Metropolitan Statistical Area,http://newbernnc.gov
 Cumberland County,North Carolina,http://www.co.cumberland.nc.us
 Currituck County,North Carolina,http://www.co.currituck.nc.us
 Dare County,North Carolina,http://www.darenc.com
 Davidson County,North Carolina,http://www.co.davidson.nc.us
-Winston-Salem,NC Metropolitan Statistical Area,http://www.cityofws.org
 Davie County,North Carolina,http://www.co.davie.nc.us
 Duplin County,North Carolina,http://www.duplincountync.com
 Durham County,North Carolina,http://www.dconc.gov
@@ -2089,16 +1741,12 @@ Hoke County,North Carolina,http://www.hokecounty.net
 Hyde County,North Carolina,http://www.hydecountync.gov
 Iredell County,North Carolina,https://www.iredellcountync.gov
 Jackson County,North Carolina,http://www.jacksonnc.org
-Cullowhee,NC Micropolitan Statistical Area,http://www.jacksonnc.org
 Johnston County,North Carolina,http://www.johnstonnc.com
 Jones County,North Carolina,http://jonescountync.gov
 Lee County,North Carolina,https://www.leecountync.gov
-Sanford,NC Micropolitan Statistical Area,https://www.leecountync.gov
 Lenoir County,North Carolina,http://www.lenoircountync.gov
-Kinston,NC Micropolitan Statistical Area,http://www.lenoircountync.gov
 Lincoln County,North Carolina,http://www.lincolncounty.org
 McDowell County,North Carolina,http://www.mcdowellgov.com
-Marion,NC Micropolitan Statistical Area,http://www.mcdowellgov.com
 Macon County,North Carolina,http://www.maconnc.org
 Madison County,North Carolina,http://www.madisoncountync.gov
 Martin County,North Carolina,http://www.martincountyncgov.com
@@ -2106,7 +1754,6 @@ Mecklenburg County,North Carolina,https://www.mecknc.gov/Pages/Home.aspx
 Mitchell County,North Carolina,http://www.mitchellcounty.org
 Montgomery County,North Carolina,http://www.montgomerycountync.com
 Moore County,North Carolina,http://www.moorecountync.gov
-Pinehurst-Southern Pines,NC Micropolitan Statistical Area,http://www.moorecountync.gov
 Nash County,North Carolina,https://nashcountync.gov
 New Hanover County,North Carolina,http://www.nhcgov.com
 Northampton County,North Carolina,http://www.northamptonnc.com
@@ -2117,42 +1764,30 @@ Pasquotank County,North Carolina,http://www.co.pasquotank.nc.us
 Pender County,North Carolina,http://www.pendercountync.gov
 Person County,North Carolina,http://www.personcountync.gov
 Pitt County,North Carolina,http://www.pittcountync.gov
-Greenville,NC Metropolitan Statistical Area,http://www.pittcountync.gov
 Polk County,North Carolina,https://www.polknc.gov
 Randolph County,North Carolina,http://www.randolphcountync.gov
 Richmond County,North Carolina,http://www.richmondnc.com
-Rockingham,NC Micropolitan Statistical Area,http://www.richmondnc.com
 Robeson County,North Carolina,http://www.co.robeson.nc.us
-Lumberton,NC Micropolitan Statistical Area,http://www.co.robeson.nc.us
 Rockingham County,North Carolina,http://www.rockinghamcountync.gov
 Rowan County,North Carolina,https://www.rowancountync.gov
 Rutherford County,North Carolina,http://rutherfordcountync.gov
-Forest City,NC Micropolitan Statistical Area,http://rutherfordcountync.gov
 Sampson County,North Carolina,http://www.sampsonnc.com
 Scotland County,North Carolina,http://www.scotlandcounty.org
-Laurinburg,NC Micropolitan Statistical Area,http://www.scotlandcounty.org
 Stanly County,North Carolina,http://www.stanlycountync.gov
-Albemarle,NC Micropolitan Statistical Area,http://www.stanlycountync.gov
 Stokes County,North Carolina,http://www.co.stokes.nc.us
 Surry County,North Carolina,http://www.co.surry.nc.us
-Mount Airy,NC Micropolitan Statistical Area,http://www.co.surry.nc.us
 Swain County,North Carolina,http://www.swaincountync.gov
 Transylvania County,North Carolina,http://www.transylvaniacounty.org
-Brevard,NC Micropolitan Statistical Area,http://www.transylvaniacounty.org
 Tyrrell County,North Carolina,http://tyrrellcounty.org/index.php/en/
 Union County,North Carolina,http://www.unioncountync.gov
 Vance County,North Carolina,http://www.vancecounty.org
-Henderson,NC Micropolitan Statistical Area,http://www.vancecounty.org
 Wake County,North Carolina,https://www.wake.gov
 Warren County,North Carolina,http://www.warrencountync.com
 Washington County,North Carolina,http://www.washconc.org
 Watauga County,North Carolina,http://www.wataugacounty.org
-Boone,NC Micropolitan Statistical Area,http://www.wataugacounty.org
 Wayne County,North Carolina,http://www.waynegov.com
 Wilkes County,North Carolina,http://www.wilkescounty.net
-North Wilkesboro,NC Micropolitan Statistical Area,http://www.wilkescounty.net
 Wilson County,North Carolina,https://www.wilsoncountync.gov
-Wilson,NC Micropolitan Statistical Area,https://www.wilsoncountync.gov
 Yadkin County,North Carolina,http://www.yadkincountync.gov
 Yancey County,North Carolina,http://www.yanceycountync.gov
 Adams County,North Dakota,https://www.adamscountynd.com/
@@ -2198,62 +1833,44 @@ Slope County,North Dakota,http://www.slopecountynd.com/
 Stark County,North Dakota,https://www.starkcountynd.gov/
 Steele County,North Dakota,http://www.co.steele.nd.us/
 Stutsman County,North Dakota,https://www.stutsmancounty.gov/
-Jamestown,ND Micropolitan Statistical Area,https://www.stutsmancounty.gov/
 Towner County,North Dakota,http://townercountynd.com/
 Traill County,North Dakota,http://www.co.traill.nd.us
 Walsh County,North Dakota,http://www.co.walsh.nd.us
 Ward County,North Dakota,https://www.co.ward.nd.us/
 Wells County,North Dakota,http://www.wellscountynd.com
 Williams County,North Dakota,https://www.williamsnd.com/
-Williston,ND Micropolitan Statistical Area,https://www.williamsnd.com/
 Adams County,Ohio,https://www.adamscountyoh.gov/
 Allen County,Ohio,http://www.co.allen.oh.us
 Ashland County,Ohio,http://www.ashlandcounty.org
-Ashland,OH Micropolitan Statistical Area,http://www.ashlandcounty.org
 Ashtabula County,Ohio,http://www.co.ashtabula.oh.us
-Ashtabula,OH Micropolitan Statistical Area,http://www.co.ashtabula.oh.us
 Athens County,Ohio,http://www.co.athensoh.org/
-Athens,OH Micropolitan Statistical Area,http://www.co.athensoh.org/
 Auglaize County,Ohio,http://www.auglaizecounty.org
-Wapakoneta,OH Micropolitan Statistical Area,http://www.auglaizecounty.org
 Belmont County,Ohio,http://www.belmontcountyohio.org
 Brown County,Ohio,http://www.browncountyohio.gov
 Butler County,Ohio,http://www.butlercountyohio.org
 Carroll County,Ohio,http://www.carrollcountyohio.us
 Champaign County,Ohio,http://www.co.champaign.oh.us
-Urbana,OH Micropolitan Statistical Area,http://www.co.champaign.oh.us
 Clark County,Ohio,http://www.clarkcountyohio.gov
-Springfield,OH Metropolitan Statistical Area,http://www.clarkcountyohio.gov
 Clermont County,Ohio,http://www.clermontcountyohio.gov/
 Clinton County,Ohio,http://co.clinton.oh.us
-Wilmington,OH Micropolitan Statistical Area,http://co.clinton.oh.us
 Columbiana County,Ohio,http://www.columbianacounty.org
-Salem,OH Micropolitan Statistical Area,http://www.columbianacounty.org
 Coshocton County,Ohio,http://www.coshoctoncounty.net/
-Coshocton,OH Micropolitan Statistical Area,http://www.coshoctoncounty.net/
 Crawford County,Ohio,http://www.crawford-co.org
-Bucyrus,OH Micropolitan Statistical Area,http://www.crawford-co.org
 Cuyahoga County,Ohio,http://www.cuyahogacounty.us
 Darke County,Ohio,https://www.mydarkecounty.com/
-Greenville,OH Micropolitan Statistical Area,https://www.mydarkecounty.com/
 Defiance County,Ohio,http://www.defiance-county.com
-Defiance,OH Micropolitan Statistical Area,http://www.defiance-county.com
 Delaware County,Ohio,http://www.co.delaware.oh.us
 Erie County,Ohio,http://www.eriecounty.oh.gov
-Sandusky,OH Micropolitan Statistical Area,http://www.eriecounty.oh.gov
 Fairfield County,Ohio,http://www.co.fairfield.oh.us
 Fayette County,Ohio,http://www.fayette-co-oh.com/
-Washington Court House,OH Micropolitan Statistical Area,http://www.fayette-co-oh.com/
 Franklin County,Ohio,http://franklincountyohio.gov
 Fulton County,Ohio,http://www.FultonCountyOH.com
 Gallia County,Ohio,http://www.gallianet.net
 Geauga County,Ohio,http://www.co.geauga.oh.us
 Greene County,Ohio,https://www.greenecountyohio.gov
 Guernsey County,Ohio,http://www.guernseycounty.org
-Cambridge,OH Micropolitan Statistical Area,http://www.guernseycounty.org
 Hamilton County,Ohio,http://www.hamilton-co.org
 Hancock County,Ohio,http://www.co.hancock.oh.us
-Findlay,OH Micropolitan Statistical Area,https://www.findlayohio.gov/
 Hardin County,Ohio,http://www.co.hardin.oh.us
 Harrison County,Ohio,http://www.harrisoncountyohio.org
 Henry County,Ohio,https://www.henrycountyohio.gov
@@ -2261,34 +1878,27 @@ Highland County,Ohio,http://co.highland.oh.us/
 Hocking County,Ohio,http://www.co.hocking.oh.us
 Holmes County,Ohio,http://www.co.holmes.oh.us/
 Huron County,Ohio,http://www.huroncounty-oh.gov/
-Norwalk,OH Micropolitan Statistical Area,http://www.huroncounty-oh.gov/
 Jackson County,Ohio,http://www.jacksoncountyohio.us/
-Jackson,OH Micropolitan Statistical Area,http://www.jacksoncountyohio.us/
 Jefferson County,Ohio,http://www.jeffersoncountyoh.com
 Knox County,Ohio,http://www.co.knox.oh.us/
-Mount Vernon,OH Micropolitan Statistical Area,http://www.co.knox.oh.us/
 Lake County,Ohio,http://www.lakecountyohio.gov
 Lawrence County,Ohio,http://www.lawrencecountyohio.org
 Licking County,Ohio,http://www.lcounty.com
 Logan County,Ohio,http://www.co.logan.oh.us
-Bellefontaine,OH Micropolitan Statistical Area,http://www.co.logan.oh.us
 Lorain County,Ohio,http://www.loraincounty.us
 Lucas County,Ohio,http://www.co.lucas.oh.us
 Madison County,Ohio,http://www.co.madison.oh.us
 Mahoning County,Ohio,http://www.mahoningcountyoh.gov
 Marion County,Ohio,http://www.co.marion.oh.us
-Marion,OH Micropolitan Statistical Area,http://www.co.marion.oh.us
 Medina County,Ohio,http://www.co.medina.oh.us
 Meigs County,Ohio,https://www.meigscountyohio.com/
 Mercer County,Ohio,http://www.mercercountyohio.org
-Celina,OH Micropolitan Statistical Area,http://www.mercercountyohio.org
 Miami County,Ohio,http://www.MiamiCountyOhio.gov
 Monroe County,Ohio,http://www.monroecountyohio.net/
 Montgomery County,Ohio,http://www.mcohio.org
 Morgan County,Ohio,http://www.morgancounty-oh.gov
 Morrow County,Ohio,http://www.morrowcountyohio.gov
 Muskingum County,Ohio,http://www.muskingumcounty.org
-Zanesville,OH Micropolitan Statistical Area,http://www.muskingumcounty.org
 Noble County,Ohio,https://noblecountyohio.gov/
 Ottawa County,Ohio,http://www.co.ottawa.oh.us
 Paulding County,Ohio,http://www.pauldingcountyoh.com
@@ -2299,35 +1909,25 @@ Preble County,Ohio,http://www.prebco.org
 Putnam County,Ohio,http://www.putnamcountyohio.gov
 Richland County,Ohio,http://www.richlandcountyoh.us
 Ross County,Ohio,http://www.co.ross.oh.us
-Chillicothe,OH Micropolitan Statistical Area,http://www.co.ross.oh.us
 Sandusky County,Ohio,http://www.sandusky-county.com/
-Fremont,OH Micropolitan Statistical Area,http://www.sandusky-county.com/
 Scioto County,Ohio,http://www.sciotocountyohio.com
-Portsmouth,OH Micropolitan Statistical Area,http://www.sciotocountyohio.com
 Seneca County,Ohio,https://senecacountyohio.gov/
-Tiffin,OH Micropolitan Statistical Area,https://senecacountyohio.gov/
 Shelby County,Ohio,http://co.shelby.oh.us
-Sidney,OH Micropolitan Statistical Area,http://co.shelby.oh.us
 Stark County,Ohio,http://www.starkcountyohio.gov/
 Summit County,Ohio,http://co.summitoh.net
 Trumbull County,Ohio,http://www.co.trumbull.oh.us
 Tuscarawas County,Ohio,http://www.co.tuscarawas.oh.us
-New Philadelphia-Dover,OH Micropolitan Statistical Area,http://www.co.tuscarawas.oh.us
 Union County,Ohio,http://www.co.union.oh.us/
 Van Wert County,Ohio,https://www.vanwertcountyohio.gov
-Van Wert,OH Micropolitan Statistical Area,https://www.vanwertcountyohio.gov
 Vinton County,Ohio,http://www.vintoncounty.com/
 Warren County,Ohio,http://www.co.warren.oh.us
 Washington County,Ohio,http://www.washingtongov.org/
-Marietta,OH Micropolitan Statistical Area,http://www.washingtongov.org/
 Wayne County,Ohio,http://www.wayneohio.org
-Wooster,OH Micropolitan Statistical Area,http://www.wayneohio.org
 Williams County,Ohio,http://www.co.williams.oh.us
 Wood County,Ohio,http://www.woodcountyohio.gov
 Wyandot County,Ohio,http://www.co.wyandot.oh.us
 Beaver County,Oklahoma,http://beaver.okcounties.org/
 Beckham County,Oklahoma,http://beckham.okcounties.org
-Elk City,OK Micropolitan Statistical Area,http://beckham.okcounties.org
 Blaine County,Oklahoma,http://blaine.okcounties.org/
 Canadian County,Oklahoma,http://www.canadiancounty.org
 Carter County,Oklahoma,http://cartercountyok.us
@@ -2335,20 +1935,15 @@ Cleveland County,Oklahoma,http://www.clevelandcountyok.com/
 Comanche County,Oklahoma,http://www.comanchecounty.us
 Creek County,Oklahoma,http://www.creekcountyonline.com
 Custer County,Oklahoma,http://custer.okcounties.org/
-Weatherford,OK Micropolitan Statistical Area,http://custer.okcounties.org/
 Delaware County,Oklahoma,https://delaware.okcounties.org/
-Woodward,OK Micropolitan Statistical Area,http://woodwardcounty.org/401.html
 Garfield County,Oklahoma,http://www.garfieldok.com
-Enid,OK Micropolitan Statistical Area,http://www.garfieldok.com
 Grady County,Oklahoma,http://www.gradycountyok.com
 Grant County,Oklahoma,http://www.grantcountyok.com
 Greer County,Oklahoma,http://greer.okcounties.org
 Jackson County,Oklahoma,http://jackson.okcounties.org
-Altus,OK Micropolitan Statistical Area,http://jackson.okcounties.org
 Jefferson County,Oklahoma,http://www.jeffcoinfo.org
 Johnston County,Oklahoma,http://www.johnstoncountyok.org
 Kay County,Oklahoma,http://www.courthouse.kay.ok.us/home.html
-Ponca City,OK Micropolitan Statistical Area,http://www.courthouse.kay.ok.us/home.html
 Lincoln County,Oklahoma,https://lincoln.okcounties.org/
 Logan County,Oklahoma,http://www.logancountyok.com
 Love County,Oklahoma,http://love.okcounties.org
@@ -2360,106 +1955,75 @@ Noble County,Oklahoma,http://www.noblecountyok.com/
 Nowata County,Oklahoma,http://nowata.com/
 Oklahoma County,Oklahoma,http://www.oklahomacounty.org
 Ottawa County,Oklahoma,http://ottawa.okcounties.org/
-Miami,OK Micropolitan Statistical Area,http://ottawa.okcounties.org/
 Pawnee County,Oklahoma,http://www.cityofpawnee.com/county-of-pawnee
 Payne County,Oklahoma,http://www.paynecounty.org
-Stillwater,OK Micropolitan Statistical Area,http://www.paynecounty.org
 Pittsburg County,Oklahoma,http://pittsburg.okcounties.org
-McAlester,OK Micropolitan Statistical Area,http://pittsburg.okcounties.org
 Pottawatomie County,Oklahoma,http://pottawatomiecountyok.com/
-Shawnee,OK Micropolitan Statistical Area,http://pottawatomiecountyok.com/
 Roger Mills County,Oklahoma,http://www.rogermills.org/
 Rogers County,Oklahoma,http://www.rogerscounty.org
 Stephens County,Oklahoma,http://www.stephenscountyok.com
-Duncan,OK Micropolitan Statistical Area,http://www.stephenscountyok.com
 Texas County,Oklahoma,https://texas.okcounties.org
-Guymon,OK Micropolitan Statistical Area,https://texas.okcounties.org
 Tillman County,Oklahoma,http://www.tillmancounty.org
 Tulsa County,Oklahoma,http://www.tulsacounty.org
 Wagoner County,Oklahoma,http://www.ok.gov/wagonercounty
 Washington County,Oklahoma,http://www.countycourthouse.org/
-Bartlesville,OK Micropolitan Statistical Area,http://www.countycourthouse.org/
 Woodward County,Oklahoma,http://woodwardcounty.org/401.html
 Baker County,Oregon,http://www.bakercounty.org
 Benton County,Oregon,http://www.co.benton.or.us
-Corvallis,OR Metropolitan Statistical Area,http://www.co.benton.or.us
 Clackamas County,Oregon,http://www.clackamas.us
 Clatsop County,Oregon,http://www.co.clatsop.or.us
-Astoria,OR Micropolitan Statistical Area,http://www.co.clatsop.or.us
 Columbia County,Oregon,https://www.columbiacountyor.gov
 Coos County,Oregon,http://www.co.coos.or.us
-Coos Bay,OR Micropolitan Statistical Area,http://www.co.coos.or.us
 Crook County,Oregon,http://co.crook.or.us
-Prineville,OR Micropolitan Statistical Area,http://co.crook.or.us
 Curry County,Oregon,http://www.co.curry.or.us
-Brookings,OR Micropolitan Statistical Area,http://www.co.curry.or.us
 Deschutes County,Oregon,http://www.deschutes.org
-Bend,OR Metropolitan Statistical Area,http://www.deschutes.org
 Douglas County,Oregon,http://www.co.douglas.or.us
-Roseburg,OR Micropolitan Statistical Area,http://www.co.douglas.or.us
 Gilliam County,Oregon,http://www.co.gilliam.or.us
 Grant County,Oregon,http://www.gcoregonlive2.com
 Harney County,Oregon,http://www.co.harney.or.us
 Hood River County,Oregon,https://hoodrivercounty.gov
-Hood River,OR Micropolitan Statistical Area,https://hoodrivercounty.gov
 Jackson County,Oregon,http://jacksoncountyor.org
 Jefferson County,Oregon,http://www.co.jefferson.or.us
 Josephine County,Oregon,http://www.co.josephine.or.us
-Grants Pass,OR Metropolitan Statistical Area,http://www.co.josephine.or.us
 Klamath County,Oregon,http://www.co.klamath.or.us
-Klamath Falls,OR Micropolitan Statistical Area,http://www.co.klamath.or.us
 Lake County,Oregon,http://www.lakecountyor.org
 Lane County,Oregon,https://www.lanecounty.org
-Eugene,OR Metropolitan Statistical Area,https://www.lanecounty.org
 Lincoln County,Oregon,http://www.co.lincoln.or.us
-Newport,OR Micropolitan Statistical Area,http://www.co.lincoln.or.us
 Linn County,Oregon,http://www.co.linn.or.us
-Albany,OR Metropolitan Statistical Area,http://www.co.linn.or.us
 Malheur County,Oregon,http://www.malheurco.org
 Marion County,Oregon,http://www.co.marion.or.us
 Morrow County,Oregon,http://www.co.morrow.or.us/
-Hermiston-Pendleton,OR Micropolitan Statistical Area,http://hermiston.or.us
 Multnomah County,Oregon,http://www.multco.us
 Polk County,Oregon,http://www.co.polk.or.us
 Sherman County,Oregon,http://co.sherman.or.us
 Tillamook County,Oregon,http://www.co.tillamook.or.us
 Umatilla County,Oregon,http://www.co.umatilla.or.us
 Union County,Oregon,http://www.union-county.org
-La Grande,OR Micropolitan Statistical Area,http://www.union-county.org
 Wallowa County,Oregon,http://co.wallowa.or.us
 Wasco County,Oregon,http://co.wasco.or.us
-The Dalles,OR Micropolitan Statistical Area,http://co.wasco.or.us
 Washington County,Oregon,https://www.washingtoncountyor.gov/
 Wheeler County,Oregon,http://www.wheelercountyoregon.com
 Yamhill County,Oregon,http://www.co.yamhill.or.us
 Adams County,Pennsylvania,http://www.adamscounty.us
-Gettysburg,PA Metropolitan Statistical Area,http://www.adamscounty.us
 Allegheny County,Pennsylvania,http://www.alleghenycounty.us
 Armstrong County,Pennsylvania,http://www.co.armstrong.pa.us
 Beaver County,Pennsylvania,http://www.beavercountypa.gov
 Bedford County,Pennsylvania,http://bedfordcountypa.org
 Berks County,Pennsylvania,http://www.co.berks.pa.us
-Reading,PA Metropolitan Statistical Area,http://www.co.berks.pa.us
 Blair County,Pennsylvania,http://www.blairco.org
-Altoona,PA Metropolitan Statistical Area,http://www.blairco.org
 Bradford County,Pennsylvania,http://www.bradfordcountypa.org
-Sayre,PA Micropolitan Statistical Area,http://www.bradfordcountypa.org
 Bucks County,Pennsylvania,https://www.buckscounty.gov
 Butler County,Pennsylvania,http://www.co.butler.pa.us
 Cambria County,Pennsylvania,http://www.co.cambria.pa.us
-Johnstown,PA Metropolitan Statistical Area,http://www.cityofjohnstownpa.net/
 Cameron County,Pennsylvania,http://www.cameroncountypa.com
 Carbon County,Pennsylvania,http://carboncounty.com
 Centre County,Pennsylvania,http://www.centrecountypa.gov
 Chester County,Pennsylvania,http://www.chesco.org
 Clarion County,Pennsylvania,http://www.co.clarion.pa.us/
 Clearfield County,Pennsylvania,http://www.clearfieldco.org
-DuBois,PA Micropolitan Statistical Area,http://www.clearfieldco.org
 Clinton County,Pennsylvania,http://www.clintoncountypa.com
-Lock Haven,PA Micropolitan Statistical Area,http://www.clintoncountypa.com
 Columbia County,Pennsylvania,http://www.columbiapa.org
 Crawford County,Pennsylvania,http://www.crawfordcountypa.net
-Meadville,PA Micropolitan Statistical Area,http://www.crawfordcountypa.net
 Cumberland County,Pennsylvania,https://www.cumberlandcountypa.gov
 Dauphin County,Pennsylvania,http://www.dauphincounty.org
 Delaware County,Pennsylvania,https://delcopa.gov
@@ -2468,63 +2032,45 @@ Erie County,Pennsylvania,http://www.eriecountypa.gov
 Fayette County,Pennsylvania,http://www.co.fayette.pa.us
 Forest County,Pennsylvania,http://www.co.forest.pa.us
 Franklin County,Pennsylvania,https://www.franklincountypa.gov/
-Chambersburg-Waynesboro,PA Metropolitan Statistical Area,https://www.franklincountypa.gov/
 Fulton County,Pennsylvania,http://www.co.fulton.pa.us
 Greene County,Pennsylvania,https://www.co.greene.pa.us/
 Huntingdon County,Pennsylvania,http://www.huntingdoncounty.net/Pages/default.aspx
-Huntingdon,PA Micropolitan Statistical Area,http://www.huntingdoncounty.net/Pages/default.aspx
 Indiana County,Pennsylvania,https://www.indianacountypa.gov/
-Indiana,PA Micropolitan Statistical Area,https://www.indianacountypa.gov/
 Jefferson County,Pennsylvania,https://www.jeffersoncountypa.com/
 Juniata County,Pennsylvania,http://www.co.juniata.pa.us
 Lackawanna County,Pennsylvania,http://www.lackawannacounty.org/
 Lancaster County,Pennsylvania,http://www.co.lancaster.pa.us
-Lancaster,PA Metropolitan Statistical Area,http://www.co.lancaster.pa.us
 Lawrence County,Pennsylvania,http://www.co.lawrence.pa.us
-New Castle,PA Micropolitan Statistical Area,http://www.co.lawrence.pa.us
 Lebanon County,Pennsylvania,http://www.lebcounty.org
-Lebanon,PA Metropolitan Statistical Area,http://www.lebcounty.org
 Lehigh County,Pennsylvania,http://www.lehighcounty.org
 Luzerne County,Pennsylvania,http://www.luzernecounty.org
 Lycoming County,Pennsylvania,http://www.lyco.org
-Williamsport,PA Metropolitan Statistical Area,http://cityofwilliamsport.org
 McKean County,Pennsylvania,http://www.mckeancountypa.org
-Bradford,PA Micropolitan Statistical Area,http://www.mckeancountypa.org
 Mercer County,Pennsylvania,http://www.mcc.co.mercer.pa.us
 Mifflin County,Pennsylvania,http://www.co.mifflin.pa.us
-Lewistown,PA Micropolitan Statistical Area,http://www.co.mifflin.pa.us
 Monroe County,Pennsylvania,http://www.monroecountypa.gov
-East Stroudsburg,PA Metropolitan Statistical Area,http://www.monroecountypa.gov
 Montgomery County,Pennsylvania,http://www.montcopa.org/
 Montour County,Pennsylvania,http://www.montourco.org
 Northampton County,Pennsylvania,http://www.northamptoncounty.org
 Northumberland County,Pennsylvania,http://www.northumberlandco.org
-Sunbury,PA Micropolitan Statistical Area,http://www.northumberlandco.org
 Perry County,Pennsylvania,http://www.perryco.org
 Philadelphia County,Pennsylvania,http://www.phila.gov/
 Pike County,Pennsylvania,http://www.pikepa.org
 Potter County,Pennsylvania,https://visitpottertioga.com/
 Schuylkill County,Pennsylvania,http://www.co.schuylkill.pa.us
-Pottsville,PA Micropolitan Statistical Area,http://www.co.schuylkill.pa.us
 Snyder County,Pennsylvania,http://www.snydercounty.org
-Selinsgrove,PA Micropolitan Statistical Area,http://www.snydercounty.org
 Somerset County,Pennsylvania,http://www.co.somerset.pa.us
-Somerset,PA Micropolitan Statistical Area,http://www.co.somerset.pa.us
 Sullivan County,Pennsylvania,http://www.sullivancounty-pa.us
 Susquehanna County,Pennsylvania,http://www.susqco.com
 Tioga County,Pennsylvania,http://www.tiogacountypa.us
 Union County,Pennsylvania,http://www.unionco.org
-Lewisburg,PA Micropolitan Statistical Area,http://www.unionco.org
 Venango County,Pennsylvania,http://www.co.venango.pa.us
-Oil City,PA Micropolitan Statistical Area,http://www.co.venango.pa.us
 Warren County,Pennsylvania,http://www.warrencountypa.net
-Warren,PA Micropolitan Statistical Area,http://www.warrencountypa.net
 Washington County,Pennsylvania,http://www.co.washington.pa.us
 Wayne County,Pennsylvania,http://WayneCountyPA.gov
 Westmoreland County,Pennsylvania,http://www.co.westmoreland.pa.us
 Wyoming County,Pennsylvania,http://www.wycopa.org
 York County,Pennsylvania,https://yorkcountypa.gov/
-York-Hanover,PA Metropolitan Statistical Area,https://yorkcountypa.gov/
 Adjuntas,Puerto Rico,http://adjuntaspr.com
 Aguada,Puerto Rico,http://aguada.gov.pr
 Aguadilla,Puerto Rico,https://web.archive.org/web/20090301125733/http://www.aguadilla.gobierno.pr/
@@ -2572,11 +2118,9 @@ Berkeley County,South Carolina,http://www.berkeleycountysc.gov
 Calhoun County,South Carolina,http://calhouncounty.sc.gov
 Charleston County,South Carolina,http://www.charlestoncounty.org
 Cherokee County,South Carolina,http://www.cherokeecountysc.com
-Gaffney,SC Micropolitan Statistical Area,http://www.cherokeecountysc.com
 Chester County,South Carolina,http://www.chestercounty.org
 Chesterfield County,South Carolina,http://www.chesterfieldcountysc.com
 Clarendon County,South Carolina,http://www.clarendoncountygov.org
-Sumter,SC Metropolitan Statistical Area,http://www.sumtercountysc.org
 Colleton County,South Carolina,http://www.colletoncounty.org
 Darlington County,South Carolina,http://www.darcosc.com
 Dillon County,South Carolina,http://www.dilloncountysc.org
@@ -2585,10 +2129,8 @@ Edgefield County,South Carolina,http://edgefieldcounty.sc.gov
 Fairfield County,South Carolina,http://www.fairfieldsc.com
 Florence County,South Carolina,http://www.florenceco.org
 Georgetown County,South Carolina,http://www.georgetowncountysc.org
-Georgetown,SC Micropolitan Statistical Area,http://www.georgetowncountysc.org
 Greenville County,South Carolina,http://www.greenvillecounty.org
 Greenwood County,South Carolina,http://www.greenwoodcounty-sc.gov
-Greenwood,SC Micropolitan Statistical Area,http://www.cityofgreenwoodsc.com
 Hampton County,South Carolina,http://www.hamptoncountysc.org
 Horry County,South Carolina,https://www.horrycountysc.gov
 Jasper County,South Carolina,http://www.jaspercountysc.gov
@@ -2600,34 +2142,26 @@ Lexington County,South Carolina,http://www.lex-co.sc.gov
 McCormick County,South Carolina,http://mccormickcountysc.org
 Marion County,South Carolina,http://www.marionsc.org
 Marlboro County,South Carolina,http://marlborocounty.sc.gov
-Bennettsville,SC Micropolitan Statistical Area,http://marlborocounty.sc.gov
 Newberry County,South Carolina,http://www.newberrycounty.net
-Newberry,SC Micropolitan Statistical Area,http://www.newberrycounty.net
 Oconee County,South Carolina,http://www.oconeesc.com
-Seneca,SC Micropolitan Statistical Area,http://www.oconeesc.com
 Orangeburg County,South Carolina,http://www.orangeburgcounty.org
-Orangeburg,SC Micropolitan Statistical Area,http://www.orangeburgcounty.org
 Pickens County,South Carolina,http://www.co.pickens.sc.us
 Richland County,South Carolina,https://www.richlandcountysc.gov/
 Saluda County,South Carolina,http://saludacounty.sc.gov
 Spartanburg County,South Carolina,http://www.spartanburgcounty.org
-Spartanburg,SC Metropolitan Statistical Area,http://www.cityofspartanburg.org
 Sumter County,South Carolina,http://www.sumtercountysc.org
 Union County,South Carolina,http://gearupunionsc.com
 Williamsburg County,South Carolina,http://www.williamsburgcounty.sc.gov
 York County,South Carolina,http://www.yorkcountygov.com
 Beadle County,South Dakota,http://beadle.sdcounties.org/
-Huron,SD Micropolitan Statistical Area,http://beadle.sdcounties.org/
 Bon Homme County,South Dakota,http://bonhomme.sdcounties.org
 Brookings County,South Dakota,http://www.brookingscountysd.gov
-Brookings,SD Micropolitan Statistical Area,http://www.brookingscountysd.gov
 Brown County,South Dakota,http://www.brown.sd.us/
 Brule County,South Dakota,http://www.brulecounty.org
 Butte County,South Dakota,http://butte.sdcounties.org
 Charles Mix County,South Dakota,http://charlesmix.sdcounties.org/
 Clark County,South Dakota,http://clark.sdcounties.org/
 Clay County,South Dakota,http://www.claycountysd.org/
-Vermillion,SD Micropolitan Statistical Area,http://www.claycountysd.org/
 Codington County,South Dakota,http://www.codington.org
 Corson County,South Dakota,http://corson.sdcounties.org/
 Custer County,South Dakota,http://www.custercountysd.com/
@@ -2647,7 +2181,6 @@ Hyde County,South Dakota,http://hydeco.org
 Kingsbury County,South Dakota,http://kingsbury.sdcounties.org
 Lake County,South Dakota,http://www.lake.sd.gov/default.aspx
 Lawrence County,South Dakota,http://www.lawrence.sd.us/
-Spearfish,SD Micropolitan Statistical Area,http://www.lawrence.sd.us/
 Lincoln County,South Dakota,http://lincolncountysd.org/
 Lyman County,South Dakota,http://www.lymancounty.org
 McCook County,South Dakota,http://www.mccookcountysd.com
@@ -2669,16 +2202,13 @@ Turner County,South Dakota,http://turner.sdcounties.org
 Union County,South Dakota,http://unioncountysd.org/
 Walworth County,South Dakota,http://walworthco.org
 Yankton County,South Dakota,http://www.co.yankton.sd.us
-Yankton,SD Micropolitan Statistical Area,http://www.co.yankton.sd.us
 Anderson County,Tennessee,http://www.andersontn.org
 Bedford County,Tennessee,http://www.bedfordcountytn.org/
-Shelbyville,TN Micropolitan Statistical Area,http://www.bedfordcountytn.org/
 Benton County,Tennessee,http://www.bentoncountytn.gov
 Blount County,Tennessee,http://www.blounttn.org
 Bradley County,Tennessee,http://www.bradleycountytn.gov
 Campbell County,Tennessee,http://www.campbellcountytn.gov
 Cannon County,Tennessee,https://www.cannoncountytn.gov
-Nashville-Davidson–Murfreesboro–Franklin,TN Metropolitan Statistical Area,https://www.visitmusiccity.com/
 Carroll County,Tennessee,https://carrollcountytn.gov
 Carter County,Tennessee,http://www.cartercountytn.gov
 Cheatham County,Tennessee,http://www.cheathamcountytn.gov
@@ -2686,55 +2216,45 @@ Chester County,Tennessee,http://chestercountytn.org
 Claiborne County,Tennessee,https://www.claibornecountytn.gov
 Clay County,Tennessee,https://dalehollowlake.org/
 Cocke County,Tennessee,http://www.cockecountytn.gov/
-Newport,TN Micropolitan Statistical Area,http://www.cockecountytn.gov/
 Coffee County,Tennessee,http://coffeecountytn.org
 Cumberland County,Tennessee,http://cumberlandcountytn.gov
-Crossville,TN Micropolitan Statistical Area,http://cumberlandcountytn.gov
 Davidson County,Tennessee,http://www.nashville.gov/
 Decatur County,Tennessee,http://decaturcountytn.org
 DeKalb County,Tennessee,http://dekalbtennessee.com
 Dickson County,Tennessee,http://dicksoncountytn.gov
 Dyer County,Tennessee,http://dyercounty.com/
-Dyersburg,TN Micropolitan Statistical Area,http://dyercounty.com/
 Fayette County,Tennessee,http://fayettetn.us
 Fentress County,Tennessee,http://www.fentresscountytn.gov
 Franklin County,Tennessee,http://franklincotn.us
 Giles County,Tennessee,https://gilescountytn.gov/
 Grainger County,Tennessee,http://www.graingercountytn.com
 Greene County,Tennessee,http://greenecountytngov.com
-Greeneville,TN Micropolitan Statistical Area,http://greenecountytngov.com
 Grundy County,Tennessee,http://grundycountytn.net
 Hamblen County,Tennessee,http://www.hamblencountytn.gov
 Hamilton County,Tennessee,http://www.hamiltontn.gov
 Hancock County,Tennessee,http://www.hancockcountytn.com
 Hawkins County,Tennessee,http://www.hawkinscountytn.gov/
-Kingsport-Bristol-Bristol,TN-VA Metropolitan Statistical Area,http://www.KingsportTN.gov
 Haywood County,Tennessee,http://haywoodcountybrownsville.com/haywood-county/
 Henderson County,Tennessee,http://hendersoncountytn.gov
 Henry County,Tennessee,http://henryco.com
-Paris,TN Micropolitan Statistical Area,http://henryco.com
 Hickman County,Tennessee,http://hickmanco.com
 Houston County,Tennessee,http://www.houstoncochamber.com
 Humphreys County,Tennessee,http://www.humphreystn.com
 Jackson County,Tennessee,http://www.jacksoncotn.com
-Cookeville,TN Micropolitan Statistical Area,http://uppercumberland.org/
 Jefferson County,Tennessee,https://jeffersoncountytn.gov/
 Knox County,Tennessee,http://knoxcounty.org
 Lake County,Tennessee,http://www.lakecountytn.com
 Lauderdale County,Tennessee,https://lauderdalecountytn.org/
 Lawrence County,Tennessee,http://www.lawrencecountytn.gov/
-Lawrenceburg,TN Micropolitan Statistical Area,http://www.lawrencecountytn.gov/
 Lewis County,Tennessee,http://www.lewiscountytn.com
 Lincoln County,Tennessee,https://www.lincolncountytn.gov
 Loudon County,Tennessee,http://www.loudoncounty-tn.gov
 McMinn County,Tennessee,http://mcminncountytn.gov
-Athens,TN Micropolitan Statistical Area,http://mcminncountytn.gov
 McNairy County,Tennessee,http://www.mcnairycountytn.com
 Macon County,Tennessee,http://maconcountytn.gov
 Madison County,Tennessee,https://www.madisoncountytn.gov
 Marion County,Tennessee,http://www.marioncountytn.net/
 Marshall County,Tennessee,http://marshallcountytn.com
-Lewisburg,TN Micropolitan Statistical Area,http://marshallcountytn.com
 Maury County,Tennessee,http://www.maurycounty-tn.gov
 Meigs County,Tennessee,https://www.meigscounty.org/
 Monroe County,Tennessee,http://www.monroetn.com
@@ -2747,14 +2267,12 @@ Perry County,Tennessee,http://www.perrycountygov.com
 Polk County,Tennessee,http://www.polkgovernment.com
 Putnam County,Tennessee,http://putnamcountytn.gov
 Rhea County,Tennessee,http://www.rheacountytn.com
-Dayton,TN Micropolitan Statistical Area,http://www.rheacountytn.com
 Roane County,Tennessee,http://roanecountytn.gov/
 Robertson County,Tennessee,https://robertsoncountytn.gov
 Rutherford County,Tennessee,http://rutherfordcountytn.gov
 Scott County,Tennessee,http://www.scottcounty.com
 Sequatchie County,Tennessee,https://sequatchiecounty-tn.gov
 Sevier County,Tennessee,http://www.seviercountytn.gov
-Sevierville,TN Micropolitan Statistical Area,http://www.seviercountytn.gov
 Shelby County,Tennessee,http://www.shelbycountytn.gov
 Stewart County,Tennessee,http://www.stewartcogov.com
 Sullivan County,Tennessee,https://sullivancountytn.gov/
@@ -2765,20 +2283,15 @@ Unicoi County,Tennessee,http://www.unicoicountytn.gov
 Union County,Tennessee,http://www.unioncountytn.com
 Van Buren County,Tennessee,https://vanburencountytn.com/
 Warren County,Tennessee,http://www.warrencountytn.gov
-McMinnville,TN Micropolitan Statistical Area,http://www.warrencountytn.gov
 Washington County,Tennessee,http://www.washingtoncountytn.org
 Wayne County,Tennessee,http://www.waynecountytn.org
 Weakley County,Tennessee,http://www.weakleycountytn.gov
-Martin,TN Micropolitan Statistical Area,http://www.cityofmartin.net/
 White County,Tennessee,http://whitecountytn.gov/
 Williamson County,Tennessee,http://williamsoncounty-tn.gov
 Wilson County,Tennessee,http://www.wilsoncountytn.gov
 Anderson County,Texas,http://www.co.anderson.tx.us/
-Palestine,TX Micropolitan Statistical Area,http://www.co.anderson.tx.us/
 Andrews County,Texas,http://www.co.andrews.tx.us
-Andrews,TX Micropolitan Statistical Area,http://www.co.andrews.tx.us
 Angelina County,Texas,http://www.angelinacounty.net/
-Lufkin,TX Micropolitan Statistical Area,http://www.angelinacounty.net/
 Aransas County,Texas,http://www.aransascountytx.gov/main/
 Archer County,Texas,http://www.co.archer.tx.us/
 Armstrong County,Texas,http://www.co.armstrong.tx.us/
@@ -2789,9 +2302,7 @@ Bandera County,Texas,https://www.banderacounty.org/
 Bastrop County,Texas,http://www.co.bastrop.tx.us
 Baylor County,Texas,http://www.co.baylor.tx.us/
 Bee County,Texas,http://co.bee.tx.us
-Beeville,TX Micropolitan Statistical Area,http://co.bee.tx.us
 Bell County,Texas,http://www.bellcountytx.com
-Killeen-Temple,TX Metropolitan Statistical Area,http://www.killeentexas.gov
 Bexar County,Texas,http://www.bexar.org/
 Blanco County,Texas,http://www.co.blanco.tx.us/
 Borden County,Texas,http://www.co.borden.tx.us
@@ -2803,22 +2314,18 @@ Brewster County,Texas,http://www.brewstercountytx.com/
 Briscoe County,Texas,http://www.co.briscoe.tx.us/
 Brooks County,Texas,http://www.co.brooks.tx.us
 Brown County,Texas,http://www.browncountytx.org/
-Brownwood,TX Micropolitan Statistical Area,http://www.browncountytx.org/
 Burleson County,Texas,http://www.co.burleson.tx.us
 Burnet County,Texas,http://www.burnetcountytexas.org/
 Caldwell County,Texas,http://www.co.caldwell.tx.us
 Calhoun County,Texas,http://www.calhouncotx.org
-Port Lavaca,TX Micropolitan Statistical Area,http://www.calhouncotx.org
 Callahan County,Texas,http://www.co.callahan.tx.us
 Cameron County,Texas,http://www.co.cameron.tx.us/
-Brownsville-Harlingen,TX Metropolitan Statistical Area,http://brownsvilletx.gov
 Camp County,Texas,http://www.co.camp.tx.us
 Carson County,Texas,http://www.co.carson.tx.us
 Cass County,Texas,http://www.co.cass.tx.us
 Castro County,Texas,http://www.co.castro.tx.us
 Chambers County,Texas,http://www.co.chambers.tx.us
 Cherokee County,Texas,http://www.co.cherokee.tx.us
-Jacksonville,TX Micropolitan Statistical Area,http://www.co.cherokee.tx.us
 Childress County,Texas,http://www.childresscountytexas.us/
 Clay County,Texas,http://www.co.clay.tx.us
 Cochran County,Texas,http://www.co.cochran.tx.us
@@ -2830,7 +2337,6 @@ Colorado County,Texas,http://www.co.colorado.tx.us
 Comal County,Texas,http://www.co.comal.tx.us
 Concho County,Texas,http://www.co.concho.tx.us
 Cooke County,Texas,http://www.co.cooke.tx.us
-Gainesville,TX Micropolitan Statistical Area,http://www.co.cooke.tx.us
 Coryell County,Texas,http://www.coryellcounty.org
 Cottle County,Texas,http://www.co.cottle.tx.us
 Crane County,Texas,http://www.co.crane.tx.us
@@ -2840,9 +2346,7 @@ Culberson County,Texas,http://www.co.culberson.tx.us
 Dallam County,Texas,http://www.dallam.org
 Dallas County,Texas,https://www.dallascounty.org
 Dawson County,Texas,http://www.co.dawson.tx.us
-Lamesa,TX Micropolitan Statistical Area,http://www.co.dawson.tx.us
 Deaf Smith County,Texas,http://www.co.deaf-smith.tx.us
-Hereford,TX Micropolitan Statistical Area,http://www.co.deaf-smith.tx.us
 Delta County,Texas,http://www.deltacountytx.com
 Denton County,Texas,https://dentoncounty.gov/
 DeWitt County,Texas,http://www.co.dewitt.tx.us
@@ -2856,7 +2360,6 @@ Edwards County,Texas,http://co.edwards.tx.us
 Ellis County,Texas,https://www.co.ellis.tx.us
 El Paso County,Texas,http://www.epcounty.com
 Erath County,Texas,http://www.co.erath.tx.us
-Stephenville,TX Micropolitan Statistical Area,http://www.co.erath.tx.us
 Falls County,Texas,http://www.co.falls.tx.us/
 Fannin County,Texas,http://www.co.fannin.tx.us
 Fayette County,Texas,http://www.co.fayette.tx.us
@@ -2870,7 +2373,6 @@ Gaines County,Texas,http://www.co.gaines.tx.us
 Galveston County,Texas,https://www.galvestoncountytx.gov
 Garza County,Texas,http://www.garzacounty.net/index.html
 Gillespie County,Texas,http://www.gillespiecounty.org
-Fredericksburg,TX Micropolitan Statistical Area,http://www.gillespiecounty.org
 Glasscock County,Texas,http://www.co.glasscock.tx.us
 Goliad County,Texas,http://www.co.goliad.tx.us
 Gonzales County,Texas,http://www.co.gonzales.tx.us
@@ -2880,7 +2382,6 @@ Gregg County,Texas,https://www.co.gregg.tx.us/
 Grimes County,Texas,http://www.co.grimes.tx.us
 Guadalupe County,Texas,http://www.co.guadalupe.tx.us
 Hale County,Texas,http://www.halecounty.org
-Plainview,TX Micropolitan Statistical Area,http://www.halecounty.org
 Hamilton County,Texas,http://www.hamiltoncountytx.org/
 Hansford County,Texas,http://www.co.hansford.tx.us
 Hardin County,Texas,http://www.co.hardin.tx.us
@@ -2891,22 +2392,16 @@ Haskell County,Texas,http://www.co.haskell.tx.us
 Hays County,Texas,https://hayscountytx.com/
 Hemphill County,Texas,http://www.co.hemphill.tx.us
 Henderson County,Texas,http://www.co.henderson.tx.us
-Athens,TX Micropolitan Statistical Area,http://www.co.henderson.tx.us
 Hidalgo County,Texas,https://www.hidalgocounty.us/
-McAllen-Edinburg-Mission,TX Metropolitan Statistical Area,https://www.hidalgocounty.us/
 Hill County,Texas,http://www.co.hill.tx.us
 Hockley County,Texas,http://www.co.hockley.tx.us
-Levelland,TX Micropolitan Statistical Area,http://www.co.hockley.tx.us
 Hood County,Texas,https://www.co.hood.tx.us
 Hopkins County,Texas,http://www.hopkinscountytx.org
-Sulphur Springs,TX Micropolitan Statistical Area,http://www.hopkinscountytx.org
 Houston County,Texas,http://www.co.houston.tx.us
 Howard County,Texas,http://www.co.howard.tx.us
-Big Spring,TX Micropolitan Statistical Area,http://www.mybigspring.com
 Hudspeth County,Texas,http://www.co.hudspeth.tx.us
 Hunt County,Texas,http://www.huntcounty.net
 Hutchinson County,Texas,http://www.co.hutchinson.tx.us
-Borger,TX Micropolitan Statistical Area,http://www.co.hutchinson.tx.us
 Irion County,Texas,http://www.co.irion.tx.us
 Jack County,Texas,http://www.jackcounty.org
 Jackson County,Texas,http://www.co.jackson.tx.us
@@ -2915,7 +2410,6 @@ Jeff Davis County,Texas,http://www.co.jeff-davis.tx.us
 Jefferson County,Texas,http://www.co.jefferson.tx.us
 Jim Hogg County,Texas,http://www.co.jim-hogg.tx.us/
 Jim Wells County,Texas,http://www.co.jim-wells.tx.us
-Alice,TX Micropolitan Statistical Area,http://www.co.jim-wells.tx.us
 Johnson County,Texas,http://www.johnsoncountytx.org
 Jones County,Texas,http://www.co.jones.tx.us
 Karnes County,Texas,http://www.co.karnes.tx.us
@@ -2924,14 +2418,12 @@ Kendall County,Texas,http://www.co.kendall.tx.us
 Kenedy County,Texas,http://www.co.kenedy.tx.us
 Kent County,Texas,http://www.co.kent.tx.us
 Kerr County,Texas,https://www.kerrcountytx.gov
-Kerrville,TX Micropolitan Statistical Area,https://www.kerrcountytx.gov
 Kimble County,Texas,http://www.co.kimble.tx.us
 King County,Texas,http://www.kingcountytexas.us
 Kinney County,Texas,http://www.co.kinney.tx.us
 Kleberg County,Texas,http://www.co.kleberg.tx.us
 Knox County,Texas,http://www.knoxcountytexas.org
 Lamar County,Texas,http://www.co.lamar.tx.us
-Paris,TX Micropolitan Statistical Area,http://www.co.lamar.tx.us
 Lamb County,Texas,http://co.lamb.tx.us
 Lampasas County,Texas,http://www.co.lampasas.tx.us
 La Salle County,Texas,http://lasallecountytx.org
@@ -2952,9 +2444,7 @@ Madison County,Texas,http://www.co.madison.tx.us
 Marion County,Texas,http://www.co.marion.tx.us
 Mason County,Texas,http://www.co.mason.tx.us
 Matagorda County,Texas,http://www.co.matagorda.tx.us
-Bay City,TX Micropolitan Statistical Area,http://www.co.matagorda.tx.us
 Maverick County,Texas,http://www.co.maverick.tx.us
-Eagle Pass,TX Micropolitan Statistical Area,http://www.co.maverick.tx.us
 Medina County,Texas,http://www.medinacountytexas.org
 Menard County,Texas,http://co.menard.tx.us
 Midland County,Texas,http://www.co.midland.tx.us
@@ -2963,22 +2453,17 @@ Mills County,Texas,https://www.co.mills.tx.us
 Montague County,Texas,http://www.co.montague.tx.us
 Montgomery County,Texas,http://www.mctx.org/
 Moore County,Texas,http://www.co.moore.tx.us
-Dumas,TX Micropolitan Statistical Area,http://www.co.moore.tx.us
 Morris County,Texas,http://www.co.morris.tx.us/
 Motley County,Texas,http://www.co.motley.tx.us
 Nacogdoches County,Texas,http://www.co.nacogdoches.tx.us
-Nacogdoches,TX Micropolitan Statistical Area,http://www.co.nacogdoches.tx.us
 Navarro County,Texas,http://www.co.navarro.tx.us
-Corsicana,TX Micropolitan Statistical Area,http://www.co.navarro.tx.us
 Newton County,Texas,http://www.co.newton.tx.us
 Nolan County,Texas,http://www.co.nolan.tx.us
-Sweetwater,TX Micropolitan Statistical Area,http://www.co.nolan.tx.us
 Nueces County,Texas,http://www.co.nueces.tx.us
 Ochiltree County,Texas,http://www.co.ochiltree.tx.us
 Oldham County,Texas,http://www.co.oldham.tx.us
 Orange County,Texas,http://www.co.orange.tx.us
 Palo Pinto County,Texas,http://www.co.palo-pinto.tx.us
-Mineral Wells,TX Micropolitan Statistical Area,http://www.co.palo-pinto.tx.us
 Panola County,Texas,http://www.co.panola.tx.us
 Parker County,Texas,http://www.parkercountytx.com
 Parmer County,Texas,http://parmercounty.org/
@@ -2992,7 +2477,6 @@ Reagan County,Texas,http://www.reagancountytexas.us/
 Real County,Texas,http://www.co.real.tx.us
 Red River County,Texas,http://www.co.red-river.tx.us
 Reeves County,Texas,http://www.reevescounty.org
-Pecos,TX Micropolitan Statistical Area,http://www.reevescounty.org
 Refugio County,Texas,http://www.co.refugio.tx.us
 Roberts County,Texas,http://www.co.roberts.tx.us
 Robertson County,Texas,http://www.co.robertson.tx.us
@@ -3006,14 +2490,11 @@ San Patricio County,Texas,http://www.co.san-patricio.tx.us/
 San Saba County,Texas,http://www.co.san-saba.tx.us
 Schleicher County,Texas,http://www.co.schleicher.tx.us
 Scurry County,Texas,http://www.co.scurry.tx.us
-Snyder,TX Micropolitan Statistical Area,http://www.co.scurry.tx.us
 Shelby County,Texas,http://www.co.shelby.tx.us
 Sherman County,Texas,http://www.co.sherman.tx.us
 Smith County,Texas,http://www.smith-county.com
-Tyler,TX Metropolitan Statistical Area,http://www.cityoftyler.org
 Somervell County,Texas,http://www.somervell.co/
 Starr County,Texas,http://www.co.starr.tx.us
-Rio Grande City,TX Micropolitan Statistical Area,http://www.co.starr.tx.us
 Stephens County,Texas,http://www.co.stephens.tx.us
 Sterling County,Texas,http://www.co.sterling.tx.us
 Sutton County,Texas,http://www.co.sutton.tx.us
@@ -3024,7 +2505,6 @@ Terrell County,Texas,http://www.co.terrell.tx.us
 Terry County,Texas,http://www.co.terry.tx.us
 Throckmorton County,Texas,http://www.co.throckmorton.tx.us
 Titus County,Texas,http://www.co.titus.tx.us
-Mount Pleasant,TX Micropolitan Statistical Area,http://www.co.titus.tx.us
 Tom Green County,Texas,http://www.co.tom-green.tx.us
 Travis County,Texas,http://traviscountytx.gov
 Trinity County,Texas,http://www.co.trinity.tx.us
@@ -3032,27 +2512,19 @@ Tyler County,Texas,http://www.co.tyler.tx.us
 Upshur County,Texas,http://www.countyofupshur.com/
 Upton County,Texas,http://www.co.upton.tx.us
 Uvalde County,Texas,http://www.uvaldecounty.com
-Uvalde,TX Micropolitan Statistical Area,http://www.uvaldecounty.com
 Val Verde County,Texas,http://www.valverdecounty.texas.gov
-Del Rio,TX Micropolitan Statistical Area,http://www.valverdecounty.texas.gov
 Van Zandt County,Texas,http://www.vanzandtcounty.org
 Victoria County,Texas,http://www.victoriacountytx.org
 Walker County,Texas,http://www.co.walker.tx.us/
-Huntsville,TX Micropolitan Statistical Area,http://www.huntsvilletx.gov/
 Waller County,Texas,http://www.co.waller.tx.us
 Ward County,Texas,http://www.co.ward.tx.us
 Washington County,Texas,http://www.co.washington.tx.us
-Brenham,TX Micropolitan Statistical Area,http://www.co.washington.tx.us
 Webb County,Texas,https://www.webbcountytx.gov
-Laredo,TX Metropolitan Statistical Area,https://www.webbcountytx.gov
 Wharton County,Texas,http://www.co.wharton.tx.us
-El Campo,TX Micropolitan Statistical Area,http://www.co.wharton.tx.us
 Wheeler County,Texas,http://www.co.wheeler.tx.us
 Wichita County,Texas,https://wichitacountytx.com/
 Wilbarger County,Texas,http://www.co.wilbarger.tx.us
-Vernon,TX Micropolitan Statistical Area,http://www.co.wilbarger.tx.us
 Willacy County,Texas,http://www.co.willacy.tx.us/
-Raymondville,TX Micropolitan Statistical Area,http://www.co.willacy.tx.us/
 Williamson County,Texas,http://wilco.org
 Wilson County,Texas,http://www.co.wilson.tx.us
 Winkler County,Texas,http://www.co.winkler.tx.us
@@ -3061,13 +2533,11 @@ Wood County,Texas,http://www.mywoodcounty.com/
 Yoakum County,Texas,http://www.co.yoakum.tx.us
 Young County,Texas,http://www.co.young.tx.us
 Zapata County,Texas,http://www.co.zapata.tx.us
-Zapata,TX Micropolitan Statistical Area,http://www.co.zapata.tx.us
 Zavala County,Texas,http://www.co.zavala.tx.us
 Beaver County,Utah,http://beaver.utah.gov
 Box Elder County,Utah,http://www.boxeldercounty.org
 Cache County,Utah,http://www.cachecounty.org
 Carbon County,Utah,http://www.carbon.utah.gov
-Price,UT Micropolitan Statistical Area,http://www.carbon.utah.gov
 Daggett County,Utah,http://www.daggettcounty.org/
 Davis County,Utah,http://www.daviscountyutah.gov
 Duchesne County,Utah,http://duchesne.utah.gov/
@@ -3075,7 +2545,6 @@ Emery County,Utah,http://www.emerycounty.com
 Garfield County,Utah,http://garfield.utah.gov
 Grand County,Utah,http://www.grandcountyutah.net
 Iron County,Utah,http://www.ironcounty.net
-Cedar City,UT Micropolitan Statistical Area,http://www.ironcounty.net
 Juab County,Utah,http://www.co.juab.ut.us
 Kane County,Utah,http://kane.utah.gov
 Millard County,Utah,https://www.millardcounty.org
@@ -3089,16 +2558,13 @@ Sevier County,Utah,http://www.sevierutah.net
 Summit County,Utah,http://www.co.summit.ut.us
 Tooele County,Utah,http://www.co.tooele.ut.us
 Uintah County,Utah,http://www.co.uintah.ut.us
-Vernal,UT Micropolitan Statistical Area,http://www.co.uintah.ut.us
 Utah County,Utah,http://www.utahcounty.gov
 Wasatch County,Utah,https://www.wasatch.utah.gov
 Washington County,Utah,http://www.washco.state.ut.us
-St. George,UT Metropolitan Statistical Area,http://www.washco.state.ut.us
 Wayne County,Utah,http://www.waynecountyutah.org
 Weber County,Utah,http://www.co.weber.ut.us/
 Addison County,Vermont,http://www.addisoncounty.com/
 Bennington County,Vermont,http://www.rpc.bennington.vt.us
-Bennington,VT Micropolitan Statistical Area,http://www.rpc.bennington.vt.us
 Lamoille County,Vermont,http://www.lcpcvt.org
 Windsor County,Vermont,http://www.swcrpc.org/
 Accomack County,Virginia,http://www.co.accomack.va.us
@@ -3194,7 +2660,6 @@ Warren County,Virginia,http://www.warrencountyva.net
 Washington County,Virginia,http://www.washcova.com
 Westmoreland County,Virginia,http://www.westmoreland-county.org/
 Wise County,Virginia,http://www.wisecounty.org
-Big Stone Gap,VA Micropolitan Statistical Area,http://www.bigstonegap.org/
 Wythe County,Virginia,http://www.wytheco.org
 York County,Virginia,http://www.yorkcounty.gov
 Alexandria,Virginia,http://www.alexandriava.gov
@@ -3236,60 +2701,44 @@ Waynesboro,Virginia,http://www.waynesboro.va.us/
 Williamsburg,Virginia,http://www.williamsburgva.gov/
 Winchester,Virginia,http://www.winchesterva.gov/
 Adams County,Washington,http://www.co.adams.wa.us
-Othello,WA Micropolitan Statistical Area,http://www.co.adams.wa.us
 Asotin County,Washington,http://www.co.asotin.wa.us
 Benton County,Washington,https://www.co.benton.wa.us/
 Chelan County,Washington,http://www.co.chelan.wa.us
 Clallam County,Washington,http://www.clallam.net
-Port Angeles,WA Micropolitan Statistical Area,http://www.clallam.net
 Clark County,Washington,https://clark.wa.gov/
 Columbia County,Washington,http://www.columbiaco.com
 Cowlitz County,Washington,http://www.co.cowlitz.wa.us
-Longview,WA Metropolitan Statistical Area,http://www.co.cowlitz.wa.us
 Douglas County,Washington,http://www.douglascountywa.net
 Ferry County,Washington,http://www.ferry-county.com/
 Franklin County,Washington,http://www.co.franklin.wa.us
 Garfield County,Washington,http://www.co.garfield.wa.us
 Grant County,Washington,http://www.grantcountywa.gov
-Moses Lake,WA Micropolitan Statistical Area,http://www.cityofml.com/
 Grays Harbor County,Washington,http://www.co.grays-harbor.wa.us
-Aberdeen,WA Micropolitan Statistical Area,http://www.co.grays-harbor.wa.us
 Island County,Washington,http://www.islandcountywa.gov
-Oak Harbor,WA Micropolitan Statistical Area,http://www.islandcountywa.gov
 Jefferson County,Washington,http://www.co.jefferson.wa.us
 King County,Washington,http://www.kingcounty.gov/
 Kitsap County,Washington,http://www.kitsapgov.com
-Bremerton-Silverdale,WA Metropolitan Statistical Area,http://www.kitsapgov.com
 Kittitas County,Washington,http://www.co.kittitas.wa.us
-Ellensburg,WA Micropolitan Statistical Area,http://www.co.kittitas.wa.us
 Klickitat County,Washington,http://www.klickitatcounty.org
 Lewis County,Washington,http://www.lewiscountywa.gov
-Centralia,WA Micropolitan Statistical Area,http://www.lewiscountywa.gov
 Lincoln County,Washington,http://www.co.lincoln.wa.us
 Mason County,Washington,https://www.masoncountywa.gov
-Shelton,WA Micropolitan Statistical Area,https://www.masoncountywa.gov
 Okanogan County,Washington,http://okanogancounty.org
 Pacific County,Washington,http://www.co.pacific.wa.us
 Pend Oreille County,Washington,http://www.pendoreilleco.org
 Pierce County,Washington,https://www.piercecountywa.gov/
 San Juan County,Washington,http://www.sanjuanco.com
 Skagit County,Washington,http://www.skagitcounty.net
-Mount Vernon-Anacortes,WA Metropolitan Statistical Area,http://www.skagitcounty.net
 Skamania County,Washington,http://www.skamaniacounty.org
 Snohomish County,Washington,http://snohomishcountywa.gov
 Spokane County,Washington,https://www.spokanecounty.org/
 Stevens County,Washington,http://www.stevenscountywa.gov
 Thurston County,Washington,http://www.co.thurston.wa.us
-Olympia-Tumwater,WA Metropolitan Statistical Area,http://www.co.thurston.wa.us
 Wahkiakum County,Washington,http://www.co.wahkiakum.wa.us
 Walla Walla County,Washington,http://www.co.walla-walla.wa.us
-Walla Walla,WA Metropolitan Statistical Area,https://www.wallawallawa.gov/
 Whatcom County,Washington,https://www.whatcomcounty.us/
-Bellingham,WA Metropolitan Statistical Area,https://www.whatcomcounty.us/
 Whitman County,Washington,http://www.whitmancounty.org
-Pullman,WA Micropolitan Statistical Area,http://www.pullman-wa.gov/
 Yakima County,Washington,http://www.yakimacounty.us
-Yakima,WA Metropolitan Statistical Area,http://www.yakimacounty.us
 Barbour County,West Virginia,https://barbourcountywv.org/
 Berkeley County,West Virginia,http://www.berkeleywv.org/
 Boone County,West Virginia,http://www.boonecountywv.org
@@ -3300,7 +2749,6 @@ Calhoun County,West Virginia,http://www.calhouncounty.wv.gov/
 Clay County,West Virginia,http://www.claycounty.wv.gov/
 Doddridge County,West Virginia,https://www.doddridgecountywv.gov/
 Fayette County,West Virginia,http://www.fayettecounty.wv.gov/
-Beckley,WV Metropolitan Statistical Area,http://www.beckley.org/
 Gilmer County,West Virginia,http://www.gilmercounty.wv.gov
 Grant County,West Virginia,http://www.grantcountywv.org
 Greenbrier County,West Virginia,http://www.greenbriercounty.net
@@ -3314,17 +2762,14 @@ Kanawha County,West Virginia,http://www.kanawha.us
 Lewis County,West Virginia,http://www.lewiscounty.wv.gov
 Lincoln County,West Virginia,http://www.lincolncountywv.org
 Logan County,West Virginia,http://www.logancounty.wv.gov
-Logan,WV Micropolitan Statistical Area,http://www.logancounty.wv.gov
 McDowell County,West Virginia,http://www.mcdowellcounty.wv.gov
 Marion County,West Virginia,http://www.marioncountywv.com
-Fairmont,WV Micropolitan Statistical Area,http://www.marioncountywv.com
 Marshall County,West Virginia,http://www.marshallcountywv.org/
 Mason County,West Virginia,http://www.masoncounty.wv.gov
 Mercer County,West Virginia,http://www.mercercounty.wv.gov/
 Mineral County,West Virginia,https://www.mineralwv.org/
 Mingo County,West Virginia,http://www.mingocountywv.com/
 Monongalia County,West Virginia,http://www.co.monongalia.wv.us
-Morgantown,WV Metropolitan Statistical Area,http://www.morgantownwv.gov/
 Monroe County,West Virginia,http://www.monroecountywv.net/
 Morgan County,West Virginia,http://www.morgancountywv.gov/
 Nicholas County,West Virginia,http://www.nicholascountywv.org/
@@ -3336,7 +2781,6 @@ Preston County,West Virginia,http://www.prestoncountywv.org/
 Putnam County,West Virginia,http://www.putnamcounty.org/
 Raleigh County,West Virginia,http://www.raleighcounty.com
 Randolph County,West Virginia,http://elkinsrandolphwv.com
-Elkins,WV Micropolitan Statistical Area,http://elkinsrandolphwv.com
 Ritchie County,West Virginia,http://www.ritchiecounty.wv.gov/
 Roane County,West Virginia,http://www.roanewv.com
 Summers County,West Virginia,http://summerscountywv.org/
@@ -3348,7 +2792,6 @@ Wayne County,West Virginia,http://www.waynecountywv.org/
 Webster County,West Virginia,http://www.webstercounty.wv.gov/
 Wetzel County,West Virginia,http://www.wetzelcounty.wv.gov/
 Wirt County,West Virginia,http://www.wirtcounty.wv.gov/
-Parkersburg-Vienna,WV Metropolitan Statistical Area,https://parkersburgcity.com
 Wood County,West Virginia,http://www.woodcountywv.com
 Wyoming County,West Virginia,http://www.wyomingcounty.com/
 Adams County,Wisconsin,https://www.co.adams.wi.us/
@@ -3366,23 +2809,19 @@ Columbia County,Wisconsin,http://www.co.columbia.wi.us
 Crawford County,Wisconsin,http://www.crawfordcountywi.org/
 Dane County,Wisconsin,http://www.countyofdane.com
 Dodge County,Wisconsin,http://www.co.dodge.wi.gov
-Beaver Dam,WI Micropolitan Statistical Area,http://www.co.dodge.wi.gov
 Door County,Wisconsin,http://www.co.door.wi.gov
 Douglas County,Wisconsin,http://www.douglascountywi.org
 Dunn County,Wisconsin,http://www.co.dunn.wi.us/
-Menomonie,WI Micropolitan Statistical Area,http://www.co.dunn.wi.us/
 Eau Claire County,Wisconsin,https://www.eauclairecounty.gov
 Florence County,Wisconsin,http://www.florencecountywi.com
 Forest County,Wisconsin,http://www.co.forest.wi.gov
 Grant County,Wisconsin,http://www.co.grant.wi.gov/
-Platteville,WI Micropolitan Statistical Area,http://www.co.grant.wi.gov/
 Green County,Wisconsin,http://www.co.green.wi.gov
 Green Lake County,Wisconsin,http://www.co.green-lake.wi.us
 Iowa County,Wisconsin,http://www.iowacounty.org
 Iron County,Wisconsin,http://www.co.iron.wi.gov
 Jackson County,Wisconsin,http://www.co.jackson.wi.us
 Jefferson County,Wisconsin,http://www.jeffersoncountywi.gov
-Watertown-Fort Atkinson,WI Micropolitan Statistical Area,http://www.jeffersoncountywi.gov
 Juneau County,Wisconsin,http://www.co.juneau.wi.gov
 Kenosha County,Wisconsin,https://www.kenoshacounty.org/
 Kewaunee County,Wisconsin,http://www.kewauneeco.org
@@ -3391,13 +2830,10 @@ Lafayette County,Wisconsin,http://www.co.lafayette.wi.gov
 Langlade County,Wisconsin,http://www.co.langlade.wi.us
 Lincoln County,Wisconsin,http://www.co.lincoln.wi.us
 Manitowoc County,Wisconsin,https://manitowoccountywi.gov
-Manitowoc,WI Micropolitan Statistical Area,https://manitowoccountywi.gov
 Marathon County,Wisconsin,http://www.co.marathon.wi.us
-Wausau,WI Metropolitan Statistical Area,http://www.co.marathon.wi.us
 Marinette County,Wisconsin,http://www.marinettecounty.com
 Marquette County,Wisconsin,http://www.co.marquette.wi.us
 Menominee County,Wisconsin,http://www.co.menominee.wi.us/
-Shawano,WI Micropolitan Statistical Area,http://www.cityofshawano.com/
 Milwaukee County,Wisconsin,http://county.milwaukee.gov
 Monroe County,Wisconsin,http://www.co.monroe.wi.us
 Oconto County,Wisconsin,http://www.co.oconto.wi.us
@@ -3408,63 +2844,48 @@ Pepin County,Wisconsin,http://www.co.pepin.wi.us
 Pierce County,Wisconsin,http://www.co.pierce.wi.us
 Polk County,Wisconsin,http://www.co.polk.wi.us
 Portage County,Wisconsin,http://www.co.portage.wi.us
-Stevens Point,WI Micropolitan Statistical Area,http://www.co.portage.wi.us
 Price County,Wisconsin,http://www.co.price.wi.us
 Racine County,Wisconsin,http://www.racinecounty.com
-Racine,WI Metropolitan Statistical Area,http://www.racinecounty.com
 Richland County,Wisconsin,http://co.richland.wi.us/index.shtml
 Rock County,Wisconsin,http://www.co.rock.wi.us
-Janesville-Beloit,WI Metropolitan Statistical Area,http://www.co.rock.wi.us
 Rusk County,Wisconsin,http://www.ruskcounty.org
 St. Croix County,Wisconsin,https://www.sccwi.gov
 Sauk County,Wisconsin,http://www.co.sauk.wi.us
-Baraboo,WI Micropolitan Statistical Area,http://www.co.sauk.wi.us
 Sawyer County,Wisconsin,http://www.sawyercountygov.org
 Shawano County,Wisconsin,http://www.co.shawano.wi.us
 Sheboygan County,Wisconsin,https://sheboygancountywi.gov
-Sheboygan,WI Metropolitan Statistical Area,https://sheboygancountywi.gov
 Taylor County,Wisconsin,http://www.co.taylor.wi.us
 Trempealeau County,Wisconsin,http://www.tremplocounty.com
 Vernon County,Wisconsin,http://www.vernoncounty.org/
 Vilas County,Wisconsin,http://www.vilascountywi.gov
 Walworth County,Wisconsin,http://www.co.walworth.wi.us
-Whitewater-Elkhorn,WI Micropolitan Statistical Area,http://www.co.walworth.wi.us
 Washburn County,Wisconsin,http://www.co.washburn.wi.us
 Washington County,Wisconsin,http://www.co.washington.wi.us
 Waukesha County,Wisconsin,http://www.waukeshacounty.gov
 Waupaca County,Wisconsin,http://www.co.waupaca.wi.us
 Waushara County,Wisconsin,http://www.co.waushara.wi.us/
 Winnebago County,Wisconsin,http://www.co.winnebago.wi.us
-Oshkosh-Neenah,WI Metropolitan Statistical Area,http://www.co.winnebago.wi.us
 Wood County,Wisconsin,http://www.co.wood.wi.us
-Wisconsin Rapids-Marshfield,WI Micropolitan Statistical Area,http://www.co.wood.wi.us
 Albany County,Wyoming,http://www.co.albany.wy.us
-Laramie,WY Micropolitan Statistical Area,http://www.co.albany.wy.us
 Big Horn County,Wyoming,http://www.bighorncountywy.gov
 Campbell County,Wyoming,https://www.ccgov.net/
-Gillette,WY Micropolitan Statistical Area,https://www.ccgov.net/
 Carbon County,Wyoming,http://www.carbonwy.com
 Converse County,Wyoming,http://conversecounty.org
 Crook County,Wyoming,http://www.crookcounty.wy.gov
 Fremont County,Wyoming,http://www.fremontcountywy.org
-Riverton,WY Micropolitan Statistical Area,http://www.fremontcountywy.org
 Goshen County,Wyoming,https://goshencounty.org/
 Hot Springs County,Wyoming,http://www.hscounty.com
 Johnson County,Wyoming,http://www.johnsoncountywyoming.org
 Laramie County,Wyoming,http://laramiecounty.com
-Cheyenne,WY Metropolitan Statistical Area,http://laramiecounty.com
 Lincoln County,Wyoming,http://www.lcwy.org
 Natrona County,Wyoming,http://www.natronacounty-wy.gov
 Niobrara County,Wyoming,http://www.niobraracounty.org
 Park County,Wyoming,https://parkcounty-wy.gov
 Platte County,Wyoming,http://plattecountywyoming.com
 Sheridan County,Wyoming,http://www.sheridancounty.com
-Sheridan,WY Micropolitan Statistical Area,http://www.sheridancounty.com
 Sublette County,Wyoming,http://www.sublettewyo.com
 Sweetwater County,Wyoming,https://www.sweetwatercountywy.gov
-Rock Springs,WY Micropolitan Statistical Area,https://www.sweetwatercountywy.gov
 Teton County,Wyoming,http://www.tetonwyo.org
 Uinta County,Wyoming,http://www.uintacounty.com
-Evanston,WY Micropolitan Statistical Area,http://www.uintacounty.com
 Washakie County,Wyoming,http://www.washakiecounty.net
 Weston County,Wyoming,http://westongov.com
