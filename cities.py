@@ -46,7 +46,7 @@ def main():
                             if ("County" or "Parish") in match:
                                 county_value = match
                                 county_value = county_value.split(",")
-                                county_value = county_value[0].replace("_", "")
+                                county_value = county_value[0].replace("_", " ")
 
                         # PULL WEBSITE FROM WIKIPEDIA PAGE
                         w = re.findall(
