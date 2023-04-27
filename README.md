@@ -6,13 +6,21 @@ Python scripts to pull the URLs of counties, parishes, and cities for the states
 
 ## Command line use
 ### Counties
-`python main.py process-cities`
+```console
+python main.py process-cities
+```
 
 ### Cities
-`python main.py process-counties`
+```console
+python main.py process-counties
+```
 
 ### Process Counties and Cities
-`python main.py process-both`
+```console
+python main.py process-both
+```
 
 ### Help
-`python main.py --help`
+```console
+python main.py --help
+```
