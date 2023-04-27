@@ -6,14 +6,14 @@ import re
 import json
 
 
-def main():
+def pull_cities():
+    print("Processing Cities...")
     with open("wikipedia_US_cities.json") as f:
         wikipedia_us_city_data = json.load(f)
 
     holding_pen = []
 
     for entry in wikipedia_us_city_data:
-        print(entry)
         # get the response in the form of html
         wikiurl = "https://en.wikipedia.org/wiki/" + entry["url"]
         response = requests.get(wikiurl)
@@ -30,13 +30,11 @@ def main():
             if "County" or "Parish" not in link.get("title"):
                 try:
                     if "," in link.get("title"):
-                        print(link)
                         county_pieces = link.get("title").split(",")
                         # OPEN WIKIPEDIA PAGE UP
                         x = requests.get("https://en.wikipedia.org/" + link.get("href"))
 
                         # PULL COUNTY OR PARISH FROM WIKIPEDIA PAGE
-                        # <td class=\"infobox-data\"><a href=\"/wiki/(.+?)\"
                         county_parish_matches = re.findall(
                             r"<td class=\"infobox-data\"><a href=\"/wiki/(.+?)\"",
                             x.text,
@@ -80,4 +78,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    pull_cities()

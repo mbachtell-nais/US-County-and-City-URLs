@@ -1,4 +1,3 @@
-import wikipedia
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -6,7 +5,8 @@ import time
 import re
 
 
-def main():
+def pull_counties():
+    print("Processing Counties...")
     # get the response in the form of html
     wikiurl = "https://en.wikipedia.org/wiki/List_of_United_States_counties_and_county_equivalents"
     table_class = "wikitable sortable jquery-tablesorter"
@@ -58,4 +58,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    pull_counties()
