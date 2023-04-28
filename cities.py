@@ -4,6 +4,12 @@ from bs4 import BeautifulSoup
 import time
 import re
 import json
+from urllib.parse import unquote
+
+
+def title_parse(title):
+    title = unquote(title)
+    return title
 
 
 def pull_cities():
@@ -14,6 +20,7 @@ def pull_cities():
     holding_pen = []
 
     for entry in wikipedia_us_city_data:
+        print(entry["name"])
         # get the response in the form of html
         wikiurl = "https://en.wikipedia.org/wiki/" + entry["url"]
         response = requests.get(wikiurl)
@@ -73,6 +80,14 @@ def pull_cities():
         )
 
         df.drop_duplicates(inplace=True)
+
+        # DROP COUNTIES FROM CITY ENTRIES
+        df = df[~df.City.str.contains(" County", na=False)]
+
+        # REMOVE HTML ENTITIES (LIKE %27)
+        df["State"] = df.State.apply(title_parse)
+        df["City"] = df.City.apply(title_parse)
+        df["County"] = df.County.apply(title_parse)
 
         df.to_csv("United_States_Cities_with_URLs.csv", index=False, encoding="utf-8")
 
