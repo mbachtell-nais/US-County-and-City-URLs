@@ -27,10 +27,23 @@ def pull_cities():
 
         # parse data from the html into a beautifulsoup object
         soup = BeautifulSoup(response.text, "html.parser")
-        countytable = soup.find(
-            "table",
-            {"class": entry["table_type"]},
-        )
+
+        # DEAL WITH VERMONT'S NON-COMPLIANT WIKIPEDIA PAGE
+        if entry["name"] == "Vermont":
+            countytable = soup.find_all(
+                "table",
+                {"class": entry["table_type"]},
+            )
+            vermont_special = ""
+            for thing in countytable:
+                vermont_special = vermont_special + "\n" + str(thing)
+            soup_special = BeautifulSoup(vermont_special, "html.parser")
+            countytable = soup_special
+        else:
+            countytable = soup.find(
+                "table",
+                {"class": entry["table_type"]},
+            )
 
         links = countytable.select("a")
         for link in links:
